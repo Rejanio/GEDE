@@ -1,0 +1,95 @@
+40|666|4
+41|400008344639|1000005550|ABREUCON ATANASIO ALVES|69862052520||05091976|Masculino|Aluno nao quis declarar cor/raca|EDELITA FERREIRA ALVES|Brasileira|29|2918506|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||022006|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Sim|Nao|Sim|Nao|Nao|Nao|Sim|Sim|Nao||Nao||Nao||Sim|Sim|2670|2219
+41|400011247320|1000038791|ALEX DOS SANTOS PASSOS|03781822508||27031990|Masculino|Aluno nao quis declarar cor/raca|FRANCISCA ALZENIR NUNES DOS SANTOS|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||022013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2602|1780
+41||1000041440|ANA CAMILA COSTA ESTEVES|05806692540||22121992|Feminino|Aluno nao quis declarar cor/raca|MARIA LINDINALVA COSTA ESTEVES|Brasileira|29|2900702|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||022012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Sim|Internacional||Ciencias sem Fronteiras|GBR|Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Nao|Nao|Sim|Nao|Nao|Nao|Nao|||||||||2602|1811
+41|400008346503|1000012781|ANDRE DIEGO ALMEIDA PEIXOTO|02421141567||29101985|Masculino|Aluno nao quis declarar cor/raca|REGINA CELESTE ALMEIDA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||012011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2542|801
+41|400019737441|1000054797|ARISTIDES MASCARENHAS RIBEIRO|03064610562||02041993|Masculino|Aluno nao quis declarar cor/raca|NEUZA MOREIRA MASCARENHAS RIBEIRO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||3201|64
+41||1000056110|BASSEM YOUSSEF MAKHOUL JUNIOR|06325232550||24081995|Masculino|Aluno nao quis declarar cor/raca|JANE SUZARTE MOREIRA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||012015|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||3246|65
+41|400017387395|1000049935|BIANCA RAMIELLY BOMFIM DE JESUS|05859208502||10101995|Feminino|Aluno nao quis declarar cor/raca|MARIA MARLY BOMFIM DE JESUS|Brasileira|29|2931103|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||012014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Sim|Sim|Sim|Nao||Nao||Nao||2602|775
+41||1000052071|BRENDA PINHEIRO CARNEIRO|02624685570||29061994|Feminino|Aluno nao quis declarar cor/raca|NAILDES OLIVEIRA PINHEIRO CARNEIRO|Brasileira|29|2908408|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Sim|Sim|Sim|Nao||Nao||Nao||2602|419
+41|400008350139|2000031488|CARLA SUELY CORREIA SANTANA|80359493572||10021983|Feminino|Aluno nao quis declarar cor/raca|NORMA SUELY SANTANA|Brasileira|29|2931004|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Nao|Nao|Sim|Nao|Nao|Nao|Nao|||||||||2602|1665
+41|400017388218|1000049936|CARLOS AUGUSTO SANTOS BARRETO|06639538555||28061994|Masculino|Aluno nao quis declarar cor/raca|RENILCE FERREIRA DOS SANTOS BARRETO|Brasileira|29|2900702|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Sim|Sim|Sim|Nao||Nao||Nao||2602|747
+41|400017388221|1000046884|CARLOS RODOLFO BOMFIM LOPES SOUZA|05913118529||01111994|Masculino|Aluno nao quis declarar cor/raca|SONIA MARIA DA ROCHA BOMFIM|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||022013|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Sim|Sim|Sim|Nao||Nao||Nao||2602|1132
+41|400004937497|1000019839|CAROLINE MARIA ALMEIDA DE ABREU SILVA|01920114564||13061983|Feminino|Aluno nao quis declarar cor/raca|MARIA ALMEIDA DE ABREU SILVA|Brasileira|43|4314902|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||022013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2542|2278
+41||1000052073|CHRISTIAN LIMA DO NASCIMENTO|85900097501||22041997|Masculino|Aluno nao quis declarar cor/raca|GILEIDE MAIA LIMA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2602|528
+41|400008348955|2000004202|COSME PEREIRA LISBOA|88992187572||14021975|Masculino|Aluno nao quis declarar cor/raca|MARIA PEREIRA LISBOA|Brasileira|29|2924009|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||022010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2542|877
+41|400008348291|1000021956|DIEGO OLIVEIRA DOS SANTOS|84147750559||22071987|Masculino|Aluno nao quis declarar cor/raca|IDENILVA OLIVEIRA DOS SANTOS|Brasileira|29|2921401|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||022012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Sim|Internacional||Intercambio|EUA|Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2602|1889
+41||1000054805|EDINE SILVA DOS SANTOS|04739010569||25101993|Feminino|Aluno nao quis declarar cor/raca|MARIETE DE JESUS SILVA DOS SANTOS|Brasileira|29|2930501|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2602|585
+41||1000040548|ELIFA MIRANDA MASCARENHAS|05693384500||23111992|Masculino|Aluno nao quis declarar cor/raca|ANY CRISTINY MIRANDA MASCARENHAS|Brasileira|29|2928000|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||022012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Sim|Sim|Sim|Nao||Nao||Nao||2602|2097
+41|400008345604|1000007189|ERICK SOARES ROSA|04125730598||26051989|Masculino|Aluno nao quis declarar cor/raca|YARA SOARES DE JESUS ROSA|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||012007|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2542|2199
+41|400008350046|2000031370|ESTACIO PIMENTEL XIMENES NETO|04188725540||17111989|Masculino|Aluno nao quis declarar cor/raca|REJANE FERREIRA XIMENES FRAGA|Brasileira|26|2611606|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||012012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Sim|Sim|Sim|Nao||Nao||Nao||2602|1397
+41||1000056115|FILIPE GOIS DA SILVA|07453334519||18021996|Masculino|Aluno nao quis declarar cor/raca|RAILDA RAIMUNDA GOIS DA SILVA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||3246|166
+41|400010842935|1000044506|GESNNER ARAUJO DAMASCENA|04737540536||02081992|Masculino|Aluno nao quis declarar cor/raca|MARILEUSA ARAUJO DAMASCENA|Brasileira|29|2910800|BRA|Sim|Nao|Nao|Nao|Nao|Sim|Nao|Nao|Nao|Nao|Nao|Nao|Nao|Nao
+42||21115||Integral|Cursando||||022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Sim|Sim|Sim|Nao||Nao||Nao||2602|1772
+41||1000041448|GIUANA ALVES DA SILVA|05445189503||15031993|Feminino|Aluno nao quis declarar cor/raca|ELIANE ALVES DA SILVA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||022012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Nao|Nao|Sim|Nao|Nao|Nao|Sim|Sim|Sim|Nao||Nao||Nao||2602|2095
+41|400008347139|1000019849|IRINEU SANTOS|23097868534||03091962|Masculino|Aluno nao quis declarar cor/raca|MARIA ANTONIA SANTOS|Brasileira|29|2932903|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||022006|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Nao|Sim|Nao|Nao|Nao|Nao|Nao|||||||||3141|3141
+41||1000054813|IURI SANTOS BULHOES|85803212555||22121995|Masculino|Aluno nao quis declarar cor/raca|CELINA SANTOS BULHOES|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Sim|Sim|Sim|Nao||Nao||Nao||2602|99
+41|400013115526|2000017936|JEORGE ANTONIO CALDAS COSTA|83468137591||12061978|Masculino|Aluno nao quis declarar cor/raca|ANTONIA CALDAS COSTA|Brasileira|29|2909802|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2602|1319
+41||1000052081|JONATHAN CEDRAZ RIOS|06793660594||03031996|Masculino|Aluno nao quis declarar cor/raca|LIDIA CEDRAZ RIOS|Brasileira|29|2926301|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Sim|Sim|Sim|Nao||Nao||Nao||2602|466
+41|400011246730|1000037156|JOSEANDRO GOMES DE LIMA BRASILIO|01224235509||11031984|Masculino|Aluno nao quis declarar cor/raca|MILTES GOMES DE LIMA|Brasileira|52|5205109|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||022011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2602|1317
+41||1000054814|LARISSA GUIMARAES MATOS|04419799552||12081995|Feminino|Aluno nao quis declarar cor/raca|EDILEUSA PEREIRA GUIMARAES|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||21115||Integral|Desvinculado do curso||||012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2602|36
+41|400017388461|1000049949|LAURO DE JESUS MASCARENHAS|02493627598||08101995|Masculino|Aluno nao quis declarar cor/raca|ELIANA DE JESUS MASCARENHAS|Brasileira|29|2930501|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||012014|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Sim|Sim|Sim|Nao||Nao||Nao||2602|812
+41|400011246732|1000037159|LETRUSKA FIAMA SANTIAGO GONZAGA|04852348588||31031992|Feminino|Aluno nao quis declarar cor/raca|ANA CELIA SANTIAGO DE OLIVEIRA GONZAGA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||012011|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2542|1924
+41||1000052795|LUCAS DOS SANTOS FERREIRA|04513219521||11061995|Masculino|Aluno nao quis declarar cor/raca|ADRIANA SANTANA DOS SANTOS|Brasileira|29|2922300|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||012015|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Sim|Sim|Sim|Nao||Nao||Nao||2602|812
+41|400013114132|1000042967|LUIZ CESAR DA SILVA NUNES|04583686528||17111990|Masculino|Aluno nao quis declarar cor/raca|ZILMA DA SILVA NUNES|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||012013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2602|1145
+41||1000046894|MAIARA SOUZA PINTO DE SOUZA|06538561560||08071995|Feminino|Aluno nao quis declarar cor/raca|MARINALVA MUNIZ DE SOUZA|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||022014|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2602|1004
+41|400014847909|1000042969|MARCOS ANTONIO GONCALVES FONTES|80951767534||14101991|Masculino|Aluno nao quis declarar cor/raca|SUSANCLAY GONCALVES FONTES|Brasileira|28|2800308|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||012013|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Sim|Sim|Sim|Nao||Nao||Nao||2602|2069
+41|400013068315|1000044518|MARINA SHIGUEME TADA|00956057543||26021992|Feminino|Aluno nao quis declarar cor/raca|JUVIA ALMEIDA SANTOS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||012014|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2602|705
+41||1000052090|NATAN VINICIUS ALVES BITTENCOURT|05783560588||04071996|Masculino|Aluno nao quis declarar cor/raca|ZENILDE ALVES BITTENCOURT|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Sim|Nao||Sim|Sim|Nao||Nao||2602|812
+41|400011247340|1000038820|PEDRO IVO MARQUES E SILVA BRITO|04180838516||24071988|Masculino|Aluno nao quis declarar cor/raca|ZELIA MARQUES E SILVA|Brasileira|29|2923605|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||022013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Nao|Sim|Nao|Nao|Nao|Sim|Sim|Nao||Nao||Nao||Sim|Sim|2602|1793
+41||1000052932|RAFAEL COSTA DOS SANTOS|07098819590||22121994|Masculino|Aluno nao quis declarar cor/raca|NATALICE COSTA DOS SANTOS|Brasileira|29|2929602|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2602|291
+41|400008350061|2000031389|RENNAN VIEIRA DE SOUZA ROCHA|04947158557||09011991|Masculino|Aluno nao quis declarar cor/raca|FRANCISCA DE PAULA VIEIRA DE SOUZA ROCHA|Brasileira|29|2929008|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||022010|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Sim|Sim|Sim|Nao||Nao||Nao||2542|2178
+41|400017388615|1000049957|RICARDO MACEDO BORGES BOAVENTURA|06629877560||23021996|Masculino|Aluno nao quis declarar cor/raca|REGINA MACEDO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||012014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Nao|Nao|Sim|Nao|Nao|Nao|Sim|Sim|Sim|Nao||Nao||Nao||2602|939
+41||1000041459|RODRIGO NEVES DOS SANTOS|84332026500||11121992|Masculino|Aluno nao quis declarar cor/raca|ROSALINA CAROLINA NEVES|Brasileira|35|3550308|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||022012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Nao|Nao|Sim|Nao|Nao|Nao|Sim|Sim|Sim|Nao||Nao||Nao||2602|2178
+41||1000052096|THAMIS CORTES FREIRE DE CARVALHO|06077791520||24041996|Feminino|Aluno nao quis declarar cor/raca|TENISIA CORTES DE SOUZA FREIRE DE CARVALHO|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Sim|Sim|Sim|Nao||Nao||Nao||2602|812
+41|400010840663|1000049962|THIAGO CERQUEIRA SILVA|04779397596||21101992|Masculino|Aluno nao quis declarar cor/raca|ELIENE CERQUEIRA SILVA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||21115||Integral|Desvinculado do curso||||012014|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2602|291
+41||1000052098|VICTOR LOPES MATOS SILVA|05692680521||01091993|Masculino|Aluno nao quis declarar cor/raca|IVANEDE LOPES MATOS SILVA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2602|146
+41||1000054822|VITOR DE OLIVEIRA SILVA|06414509582||03021997|Masculino|Aluno nao quis declarar cor/raca|WILMA ASTROGILDA DE OLIVEIRA SILVA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Sim|Sim|Sim|Nao||Nao||Nao||2602|583
+41||1000056136|WILLIAM MAX DOS SANTOS SILVA SILVA|05177385540||01081997|Masculino|Aluno nao quis declarar cor/raca|CREMILDA DOS SANTOS SILVA SILVA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||012015|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||3246|292
+41|400014847962|1000042983|WILTON DE JESUS SANTOS|05612408501||01121993|Masculino|Aluno nao quis declarar cor/raca|ANA CRISTINA CARDOSO DE JESUS|Brasileira|||BRA|Nao|||||||||||||
+42||21115||Integral|Cursando||||012013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Nao|Nao|Sim|Nao|Nao|Nao|Sim|Sim|Sim|Nao||Nao||Nao||2602|2147

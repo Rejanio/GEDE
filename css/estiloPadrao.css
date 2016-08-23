@@ -1,0 +1,282 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Menu lateral*/
+nav#barraLateral {
+    background-color: black;
+    height: 2500px;
+    margin-left: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+
+}
+
+nav#barraLateral ul{
+    list-style: none;
+
+}
+
+nav#barraLateral li a{
+    display: block;
+    font-size: 13pt;
+}
+
+nav#barraLateral li a:hover{
+    border-left: 4px solid #3878c8;
+    color: #999;
+    background-color: black;
+}
+
+img#logo {
+
+    margin-top: 20px;
+    margin-left: 45px;
+    margin-bottom: 20px;
+
+}
+
+img#home {
+
+    margin-right: 80px;
+
+}
+
+nav#barraLateral li:hover ul.submenu{
+    display: block;
+
+}
+
+nav#barraLateral a{
+    text-decoration: none;
+    color: #777;
+    text-align: right;
+    font-size: 10pt;
+    padding-right: 0px;
+}
+
+/* Conteudo Principal*/
+div#conteudo {
+    background-color: white;
+    margin-left: 0px;
+}
+
+section{
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+
+h2.Titulo{
+    font-size: 16pt;
+    color: #3878c8;
+}
+
+div#barraBusca {
+    margin-left: 0px;
+    padding: 0px;
+}
+
+div#botoesVisualizacao{
+    margin-left: 75%;
+}
+
+div#botoesEdicao{
+    margin-left: 70%;
+}
+
+div#botoesAdicao{
+    margin-left: 80%;
+}
+
+p{
+    color: #3878c8;
+}
+
+div#indexTitulo {
+    width: 900px;
+    height: 30px;
+    background-color: white;
+    margin: 20px 50px 50px 50px; /*margem em relacao a objetos de fora*/
+    padding: 10px 10px 0px 0px; /*margem em relacao a objetos de dentro*/
+}
+
+div#indexDicentes {
+    width: 900px;
+    height: 100px;
+    background-color: #e3581b;
+    margin: 20px 50px 50px 50px; /*margem em relacao a objetos de fora*/
+    box-shadow: 0px 0px 10px gray;
+    padding: 10px 10px 10px 10px; /*margem em relacao a objetos de dentro*/
+}
+
+div#indexDocentes {
+    width: 900px;
+    height: 100px;
+    background-color: #57a1df;
+    margin: 20px 50px 50px 50px; /*margem em relacao a objetos de fora*/
+    box-shadow: 0px 0px 10px gray;
+    padding: 10px 10px 10px 10px; /*margem em relacao a objetos de dentro*/
+}
+
+div#indexCursos {
+    width: 900px;
+    height: 100px;
+    background-color: #ebcd26;
+    margin: 20px 50px 50px 50px; /*margem em relacao a objetos de fora*/
+    box-shadow: 0px 0px 10px gray;
+    padding: 10px 10px 10px 10px; /*margem em relacao a objetos de dentro*/
+}
+
+span.indexMenuText{
+    size: 20pt;
+}
+
+/* Tabela */
+table{
+    width: 79%;
+    margin-left: 0px;
+    margin-bottom: 50px;
+}
+
+tr#par{
+    background-color: whitesmoke;
+}
+
+
+table td{
+    padding: 10px;
+
+}
+
+table th{
+    padding: 10px;
+}
+
+th#primeiraCelula{
+    width: 20%;
+}
+
+th#segundaCelula{
+    width: 18%;
+}
+
+th#terceiraCelula{
+    width: 30%;
+}
+
+#iBusca{     
+    border-radius:4px;
+    -moz-border-radius:4px;
+    -webkit-border-radius:4px;
+    box-shadow: 1px 1px 2px #333333;    
+    -moz-box-shadow: 1px 1px 2px #333333;
+    -webkit-box-shadow: 1px 1px 2px #333333;
+    background: whitesmoke; 
+    border:1px solid #187898;
+    width:550px;
+    height: 31px;
+}
+
+#iBusca:hover {
+
+    background: #ffffff; border:1px solid #187898;
+
+}
+
+img.caps {
+
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+
+}
+
+div#bio{
+    width: 900px;
+    height: 90px;
+    background-color: #23a72c;
+    margin: 20px 50px 50px 50px; /*margem em relacao a objetos de fora*/
+    box-shadow: 0px 0px 10px gray;
+    padding: 10px 10px 10px 10px; /*margem em relacao a objetos de dentro*/
+}
+
+div#sau{
+    width: 900px;
+    height: 90px;
+    background-color: #f43633;
+    margin: 20px 50px 50px 50px; /*margem em relacao a objetos de fora*/
+    box-shadow: 0px 0px 10px gray;
+    padding: 10px 10px 10px 10px; /*margem em relacao a objetos de dentro*/
+}
+
+div#lat{
+    width: 900px;
+    height: 90px;
+    background-color: #f47733;
+    margin: 20px 50px 50px 50px; /*margem em relacao a objetos de fora*/
+    box-shadow: 0px 0px 10px gray;
+    padding: 10px 10px 10px 10px; /*margem em relacao a objetos de dentro*/
+}
+
+div#cis{
+    width: 900px;
+    height: 90px;
+    background-color: #9d2421;
+    margin: 20px 50px 50px 50px; /*margem em relacao a objetos de fora*/
+    box-shadow: 0px 0px 10px gray;
+    padding: 10px 10px 10px 10px; /*margem em relacao a objetos de dentro*/
+}
+
+div#exa{
+    width: 900px;
+    height: 90px;
+    background-color: #3767f1;
+    margin: 20px 50px 50px 50px; /*margem em relacao a objetos de fora*/
+    box-shadow: 0px 0px 10px gray;
+    padding: 10px 10px 10px 10px; /*margem em relacao a objetos de dentro*/
+}
+
+div#tec{
+    width: 900px;
+    height: 90px;
+    background-color: #1239a9;
+    margin: 20px 50px 50px 50px; /*margem em relacao a objetos de fora*/
+    box-shadow: 0px 0px 10px gray;
+    padding: 10px 10px 10px 10px; /*margem em relacao a objetos de dentro*/
+}
+
+div#chf{
+    width: 900px;
+    height: 90px;
+    background-color: #ad39a9;
+    margin: 20px 50px 50px 50px; /*margem em relacao a objetos de fora*/
+    box-shadow: 0px 0px 10px gray;
+    padding: 10px 10px 10px 10px; /*margem em relacao a objetos de dentro*/
+}
+
+div#fis{
+    width: 900px;
+    height: 90px;
+    background-color: #60c4a9;
+    margin: 20px 50px 50px 50px; /*margem em relacao a objetos de fora*/
+    box-shadow: 0px 0px 10px gray;
+    padding: 10px 10px 10px 10px; /*margem em relacao a objetos de dentro*/
+}
+
+div#edu{
+    width: 900px;
+    height: 90px;
+    background-color: #6039a9;
+    margin: 20px 50px 50px 50px; /*margem em relacao a objetos de fora*/
+    box-shadow: 0px 0px 10px gray;
+    padding: 10px 10px 10px 10px; /*margem em relacao a objetos de dentro*/
+}

@@ -1,0 +1,797 @@
+40|666|4
+41|400019737404|1000054889|ADENILDO SANTANA DA SILVA|01455409529||28101983|Masculino|Aluno nao quis declarar cor/raca|MARIA DAS GRACAS SANTANA DA SILVA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|226
+41|400014848949|1000045370|ADJANALI CRISTINE MOREIRA DA SILVA|85876281514||03011995|Feminino|Aluno nao quis declarar cor/raca|CRISTIANE MOREIRA DA SILVA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|931
+41|400008346889|1000039106|ADMILSON FERREIRA TELES|63642000525||27071970|Masculino|Aluno nao quis declarar cor/raca|MARIA DE LOURDES TELES|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1006
+41|400019737407|1000052168|ADRIANE SAMPAIO SANTOS|06399579511||01011990|Feminino|Aluno nao quis declarar cor/raca|MARIA ROSIMEIRE SAMPAIO SANTOS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|824
+41||1000057264|ADRIELLE ARAUJO CORDEIRO|02654605574||08041998|Feminino|Aluno nao quis declarar cor/raca|JOSILENE ARAUJO CORDEIRO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|60
+41|400019737408|1000052169|ADSON FREITAS DOS SANTOS|00683437526||21111981|Masculino|Aluno nao quis declarar cor/raca|ANTONIETA FREITAS DOS SANTOS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|464
+41|400017387335|1000046352|AGENARIO SOUZA NASCIMENTO|60813792568||16091972|Masculino|Aluno nao quis declarar cor/raca|MARIA SOUZA NASCIMENTO|Brasileira|29|2901007|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|449
+41|400010517146|1000045014|AGNOLIA OLIMPIO DA SILVA|04179872501||22051989|Feminino|Aluno nao quis declarar cor/raca|GLORIA VASCONCELOS OLIMPIO|Brasileira|29|2924058|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|022012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|809
+41|400017387338|1000046353|AINA JAMILE DOS SANTOS CARNEIRO|06151588541||18031996|Feminino|Aluno nao quis declarar cor/raca|JOCILEIDE DOS SANTOS CARNEIRO|Brasileira|29|2926301|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Nao|Sim|Nao|Nao|Nao|Nao|Sim|Nao||Nao||Nao||Sim|Sim|2975|1006
+41|400017387339|1000050573|AIZIS DA HORA VIANA|03466976545||16031987|Feminino|Aluno nao quis declarar cor/raca|GILCELMA LINO DA HORA|Brasileira|||BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|022013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|60
+41|400019737411|1000052170|ALANNA DA SILVA DE FREITAS|06253456571||07121994|Feminino|Aluno nao quis declarar cor/raca|ANA LUCIA DA SILVA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012014|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|931
+41||1000059377|ALANNA PERONIO BACELAR PEREIRA|06260297599||18071997|Feminino|Aluno nao quis declarar cor/raca|SANDRA PERONIA BACELAR|Brasileira|29|2900702|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|59
+41|400013114601|1000040872|ALESSANDRA DOS SANTOS LEAL|05684925529||23121992|Feminino|Aluno nao quis declarar cor/raca|JOELMA ALVES DOS SANTOS|Brasileira|29|2912202|BRA|Nao|||||||||||||
+42||15409||Vespertino|Formado||Primeiro semestre|Nao|012011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2975
+41|400019737412|1000052171|ALESSANDRO CERQUEIRA BASTOS|06513322570||12021997|Masculino|Aluno nao quis declarar cor/raca|DALVA CERQUEIRA SILVA BASTOS|Brasileira|35|3550308|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Sim|Nao||Nao||Nao||Sim|Sim|2975|869
+41|400008345405|1000039108|ALESSIO LEAL SILVA|02128440599||11051985|Masculino|Aluno nao quis declarar cor/raca|MARIA DE LOURDES LEAL SILVA|Brasileira|29|2928802|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1770
+41|400017387341|1000046354|ALEX DOS SANTOS SANDES|06426553590||07071995|Masculino|Aluno nao quis declarar cor/raca|ELIENE DOS SANTOS SANDES|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1291
+41||1000058795|ALICE BORGES MACEDO|04709740526||02031997|Feminino|Aluno nao quis declarar cor/raca|ENIA DE ALMEIDA BORGES|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|0
+41|400013242457|1000050031|ALINE ANUNCIACAO DA SILVA|03573918530||28041987|Feminino|Aluno nao quis declarar cor/raca|VALDELICE CERQUEIRA ANUNCIACAO|Brasileira|29|2926301|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|022013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|119
+41|400017387344|1000050916|ALINE DA SILVA SALOMAO|01391179544||02081994|Feminino|Aluno nao quis declarar cor/raca|EDNALVA SOUZA DA SILVA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|646
+41||1000058797|ALINE SENA DE JESUS|06743272507||10101996|Feminino|Preta|LUCIA SENA DE JESUS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|0
+41|400013114576|1000040841|ALISSON OLIVEIRA SOARES DE SANTANA|05529645577||10091990|Masculino|Aluno nao quis declarar cor/raca|JUVENICE DE OLIVEIRA SOARES|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012011|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Sim|Internacional||Intercambio|PRT|Nao||||||||||||||||||Sim|Nao|Nao|Sim|Nao|Nao|Nao|Nao|||||||||2975|2371
+41|400019737418|1000052172|ALLAN DA SILVA DE FREITAS|86145508558||12021996|Masculino|Aluno nao quis declarar cor/raca|ANA LUCIA DA SILVA|Brasileira|29|2928604|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012014|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|931
+41|400017387352|1000050576|ALLANA LETTICIA DOS SANTOS|06273674531||03111995|Feminino|Aluno nao quis declarar cor/raca|JUCIARA DA SILVA SANTOS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1291
+41||1000058796|AMANDA BRAGA MORAES DE JESUS|07100166543||03091996|Feminino|Aluno nao quis declarar cor/raca|CLAUDIA BRAGA DE QUEIROZ|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|0
+41|400014848950|1000045015|AMANDA DA SILVA BORGES|05542149545||11081994|Feminino|Aluno nao quis declarar cor/raca|MERINES DA SILVA BORGES|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1800
+41||1000059375|AMANDA DOS SANTOS PEREIRA|06859467541||26031998|Feminino|Aluno nao quis declarar cor/raca|NOEMIA RAMOS DOS SANTOS|Brasileira|29|2923209|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2960|0
+41||1000057266|AMANDA GRADIL CORREIA|06181383581||19031995|Feminino|Aluno nao quis declarar cor/raca|ADENICE SILVA GRADIL|Brasileira|29|2917607|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|286
+41|400017387360|1000050034|AMANDA RODRIGUES DE BRITO|06260800533||30051993|Feminino|Aluno nao quis declarar cor/raca|ADILNETE SANTOS RODRIGUES|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|022013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|464
+41|400019737423|1000052173|AMANDA SANTANA SILVA|07201334590||20111995|Feminino|Aluno nao quis declarar cor/raca|VANUSIA SANTANA SANTOS|Brasileira|35|3543402|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|104
+41|400013115495|1000042505|ANA MARIA LIMA DOS SANTOS|02360968505||16011985|Feminino|Aluno nao quis declarar cor/raca|MARIA GERUSA OLIVEIRA LIMA|Brasileira|||BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|884
+41||1000057267|ANA NATHALIA NETTO BRITO DA SILVA|07474991527||15091997|Feminino|Aluno nao quis declarar cor/raca|ANA JUSSARA DE JESUS NETTO|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|345
+41||1000057268|ANA PAULA DA SILVA SANTOS|07380440594||15121996|Feminino|Aluno nao quis declarar cor/raca|CECILIA FERREIRA DA SILVA|Brasileira|29|2930501|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|286
+41|400019737428|1000054892|ANA VICTORIA SILVA DE OLIVEIRA|86038278508||18081994|Feminino|Aluno nao quis declarar cor/raca|CRISTIANE BARBOSA DA SILVA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|330
+41|400013877506|1000045374|ANDREY SA BARRETO SOUZA|05664936592||14101991|Masculino|Aluno nao quis declarar cor/raca|DINAILDA SA BARRETO SOUZA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Sim|Sim|Sim|Nao||Nao||Nao||2975|1410
+41|400017387379|1000046355|ANILA TERESA SANTANA FRATELIS|06618272599||14091995|Feminino|Aluno nao quis declarar cor/raca|MARIA TEREZA SANTANA|Brasileira|29|2929008|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1621
+41|400016827468|1000046356|ANNA CAROLINNA FARIAS DOS SANTOS DE OLIVEIRA|05080589531||27071995|Feminino|Aluno nao quis declarar cor/raca|MARCELLA WELBY FARIAS DOS SANTOS DE OLIVEIRA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|1169
+41|400017387380|1000050035|ANNA CAROLLINE SA FIGUEREDO|05397869503||28011995|Feminino|Aluno nao quis declarar cor/raca|SANDRA MARIA SA FIGUEREDO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1169
+41|400011124066|1000040843|ANTONIA APARECIDA DOS SANTOS SANTIAGO|05112597518||06061992|Feminino|Aluno nao quis declarar cor/raca|FRANCISCA DOS SANTOS SANTIAGO|Brasileira|29|2901700|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2264
+41||1000058802|ANTONIELSON ADORNO SANTOS|06011257542||04021995|Masculino|Aluno nao quis declarar cor/raca|MARIA APARECIDA ADORNO SANTOS|Brasileira|29|2931103|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|0
+41|400013114579|1000040844|ANTONIO CARLOS ALVES DOS REIS|03443123562||29041985|Masculino|Aluno nao quis declarar cor/raca|MARIA FERREIRA|Brasileira|29|2908903|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|884
+41|400019737440|1000054894|AQUILA ALVES DOS SANTOS OLIVEIRA|06084961541||09081995|Feminino|Aluno nao quis declarar cor/raca|ANTONIA ALVES DOS SANTOS OLIVEIRA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|345
+41|400011247002|1000037582|ARIADNE MAIA DO MONTE|03215643596||03051991|Feminino|Aluno nao quis declarar cor/raca|NILZETE COSTA MAIA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2475
+41|400014848952|1000043524|ARIANA DA SILVA MACHADO|05770539577||25031992|Feminino|Aluno nao quis declarar cor/raca|ANALITA SAMPAIO DA SILVA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1889
+41|400012533214|1000043525|ARIANA OLIVEIRA DA SILVA|05638093532||20031993|Feminino|Aluno nao quis declarar cor/raca|ANA CLAUDIA SILVA DE OLIVEIRA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|012012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|809
+41|400019737444|1000052559|ARTUR VITOR DE ARAUJO SANTANA|04972544503||07051997|Masculino|Aluno nao quis declarar cor/raca|ELCICLEIDE OLIVEIRA DE ARAUJO SANTANA|Brasileira|29|2933000|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|991
+41|400014849013|1000045019|BEATRIZ CAFE SACRAMENTO|06401242590||20101995|Feminino|Aluno nao quis declarar cor/raca|NEIDE BORGES CAFE SACRAMENTO|Brasileira|29|2928703|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Sim|Sim|Sim|Nao||Nao||Nao||2975|1966
+41||1000057270|BEATRIZ SANTOS DA SILVA|07498816580||12121997|Feminino|Aluno nao quis declarar cor/raca|RITA DE CASSIA SANTOS DA SILVA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|286
+41|400013114428|1000052174|BEATRIZ SOARES DA CONCEICAO OLIVEIRA|04219274537||09101992|Feminino|Aluno nao quis declarar cor/raca|NILZA SOARES DA CONCEICAO OLIVEIRA|Brasileira|29|2928604|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012014|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|1229
+41|400014849014|1000043526|BRENDA TUYANE LIMA PORTO|04969067554||26111993|Feminino|Aluno nao quis declarar cor/raca|DANUSIA BASTOS LIMA PORTO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012012|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|2356
+41|400008350472|2000032034|BRISA MERCES QUEIROZ|04698799554||24011990|Feminino|Aluno nao quis declarar cor/raca|MARIA NEUZA DAS MERCES QUEIROZ|Brasileira|35|3550308|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012009|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2535
+41||1000058804|BRUNA ESMERALDA BIZERRA ALVES DE OLIVEIRA|02679206525||25121997|Feminino|Aluno nao quis declarar cor/raca|EDLEUZA BIZERRA ALVES DE OLIVEIRA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|0
+41||1000058799|BRUNA FERREIRA BARRETO DE MEIRELES SOUZA|07099564528||05011996|Feminino|Aluno nao quis declarar cor/raca|LUCIANA FERREIRA BARRETO DE MEIRELES SOUZA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|0
+41|400013114582|1000040847|BRUNA LOPES DE OLIVEIRA|05787402570||17101992|Feminino|Aluno nao quis declarar cor/raca|DIVALCY LOPES DE OLIVEIRA|Brasileira|29|2914000|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012011|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|765
+41|400017388203|1000046358|BRUNA PINTO SAMPAIO|05245976501||27091992|Feminino|Aluno nao quis declarar cor/raca|FRANCISCA FERNANDA PINTO SAMPAIO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|524
+41|400017388205|1000046359|BRUNA SANTANA DA SILVA|04605315578||22081990|Feminino|Aluno nao quis declarar cor/raca|LUCI MEIRE SANTANA DA SILVA|Brasileira|35|3545803|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Sim|Sim|Sim|Nao||Nao||Nao||2975|1410
+41|400014849015|1000045740|BRUNA SOUZA DOS SANTOS|04748053526||30041994|Feminino|Aluno nao quis declarar cor/raca|JACIRA SOUZA DOS SANTOS|Brasileira|29|2928703|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022012|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|1050
+41|400019737449|1000052175|BRUNO ALEXANDRE DA SILVA OLIVEIRA|05768499520||07031995|Masculino|Aluno nao quis declarar cor/raca|MARIA LINDINALVA DA SILVA OLIVEIRA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|405
+41|400014849016|1000045020|BRUNO BARRETO DA ANUNCIACAO|05851169540||02061992|Masculino|Aluno nao quis declarar cor/raca|LEYDE BARRETO DA ANUNCIACAO|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|869
+41|400019737450|1000052176|BRUNO VIEIRA DA SILVA|07117705574||27041996|Masculino|Aluno nao quis declarar cor/raca|MARLEIDE RODRIGUES DA SILVA|Brasileira|26|2607901|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012014|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|464
+41|400017388208|1000046360|CAIO DE SOUZA LUZ|05059223558||28101992|Masculino|Aluno nao quis declarar cor/raca|ZENAIDE DE SOUZA LUZ|Brasileira|29|2911204|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1229
+41|400019737451|1000055333|CAIO LIMA DE OLIVEIRA CARVALHO|07024430508||02031996|Masculino|Aluno nao quis declarar cor/raca|SHEILA LIMA DE OLIVEIRA CARVALHO|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|449
+41|400019737452|1000052177|CAIQUE DOS SANTOS OLIVEIRA SALES|04748055570||06041994|Masculino|Aluno nao quis declarar cor/raca|MARINEIDE RIBEIRO DOS SANTOS|Brasileira|29|2908309|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|012014|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|0
+41|400011247544|1000039107|CAMILA ALMEIDA DA SILVA|04172665535||03081988|Feminino|Aluno nao quis declarar cor/raca|IRACI ALMEIDA DA SILVA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2639
+41|400011247010|1000037591|CAMILA DE ALMEIDA NUNES BRITO|03336125588||07081990|Feminino|Aluno nao quis declarar cor/raca|MARINA DE ALMEIDA NUNES BRITO|Brasileira|29|2902609|BRA|Nao|||||||||||||
+42||15409||Vespertino|Formado||Primeiro semestre|Nao|012010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2975
+41|400013114580|1000040845|CAMILA FERREIRA DE SOUZA|05093874540||16021991|Feminino|Aluno nao quis declarar cor/raca|ANDREA FERREIRA DE SOUZA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2594
+41|400008349942|2000031233|CAMILA SANTOS DA SILVA|04542866513||28051988|Feminino|Aluno nao quis declarar cor/raca|MARIA ANTONIA RODRIGUES SANTOS SILVA|Brasileira|29|2909802|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2960|1140
+41|400013241615|1000055336|CANDIDO REQUIAO FERREIRA JUNIOR|02548234592||05091990|Masculino|Aluno nao quis declarar cor/raca|SILVANA DINIS FERREIRA|Brasileira|29|2918001|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|104
+41||1000058800|CARINA CERQUEIRA DE OLIVEIRA SANTANA|05122480524||09031996|Feminino|Aluno nao quis declarar cor/raca|MILENA CERQUEIRA DE OLIVEIRA SANTANA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|0
+41|400013115160|1000041907|CARINE CAZUMBA DA SILVA|02633020593||10081993|Feminino|Aluno nao quis declarar cor/raca|LUCIENE DO ROSARIO CAZUMBA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1966
+41|400011247004|1000037584|CARIVALDO CORREIA NASCIMENTO JUNIOR|05775335503||03121991|Masculino|Aluno nao quis declarar cor/raca|ALTAIR DA SILVA FERREIRA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2294
+41|400011247550|1000039116|CARLOS ROBERTO FONSECA DOS SANTOS|12807028420||24101956|Masculino|Aluno nao quis declarar cor/raca|JANDIRA FONSECA DOS SANTOS|Brasileira|||BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2716
+41|400017388223|1000046361|CAROLINA ALMEIDA DA SILVA|85804820540||14051994|Feminino|Aluno nao quis declarar cor/raca|ANA MARIA ALMEIDA DA SILVA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1110
+41|400019737458|1000052178|CAROLINA GOMES RIBEIRO DE OLIVEIRA|06995115503||01081995|Feminino|Aluno nao quis declarar cor/raca|DILMA GOMES RIBEIRO DE OLIVEIRA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|012014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|0
+41||1000058801|CAROLINE DOS SANTOS LIMA|06900506585||12031995|Feminino|Aluno nao quis declarar cor/raca|MARTA ALVES DOS SANTOS LIMA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|0
+41|400008350475|2000032038|CAROLINE MARIA SANTANA NOBRE|01923694588||29011991|Feminino|Aluno nao quis declarar cor/raca|HELIA MARY SANTANA NOBRE|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012009|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|2654
+41|400010694440|1000040849|CASSIO VENICIOS DE MORAES COSTA|04968031580||09021990|Masculino|Aluno nao quis declarar cor/raca|LUCIENE MORAES COSTA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012011|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|2490
+41|400013114584|1000040850|CELIA DE SOUZA ASSIS|04245263520||28111988|Feminino|Aluno nao quis declarar cor/raca|CARMELITA DE SOUZA ASSIS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1666
+41|400017388236|1000050039|CLARA FERNANDA CUNHA SOUTO|06110563560||22061994|Feminino|Aluno nao quis declarar cor/raca|MARIA DO BATISTA DA CUNHA SOUTO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022013|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|1184
+41||1000058798|CLAUDIA SILVA SOUZA BARBOSA|06912202551||14061996|Feminino|Aluno nao quis declarar cor/raca|ANGELA CRISTINA SILVA SOUZA BARBOSA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|0
+41|400013114585|1000040851|CLEDINEA DE JESUS PEREIRA|02060076552||31081981|Feminino|Aluno nao quis declarar cor/raca|MARINALVA DE JESUS PEREIRA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2716
+41|400008345643|1000007243|CLEIDE OLIVEIRA SANTOS|02272106544||01011986|Feminino|Aluno nao quis declarar cor/raca|CLEONICE OLIVEIRA SANTOS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|2596
+41|400017388241|1000050040|CLEITON DE ASSIS SANTOS|05536954520||06061991|Masculino|Aluno nao quis declarar cor/raca|NECICLEIDE DE ASSIS SANTOS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|646
+41|400014849017|1000045021|CORYANA DE JESUS ROSA|05673907567||22081992|Feminino|Aluno nao quis declarar cor/raca|ADAILDA DE JESUS ROSA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|931
+41|400011247006|1000037586|CRISTIANE GONCALVES DA SILVA|01190236524||12031984|Feminino|Aluno nao quis declarar cor/raca|MARIA JOSE BITTENCOURT DE MACEDO|Brasileira|29|2914802|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2654
+41||1000058805|CRISTIANE PEREIRA DOS SANTOS|03984046588||19021993|Feminino|Aluno nao quis declarar cor/raca|ELIZETE PEREIRA DOS SANTOS|Brasileira|29|2911204|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2960|0
+41|400008344164|1000004647|DAIANE ALMEIDA FERREIRA|83624287591||30121985|Feminino|Aluno nao quis declarar cor/raca|ROMILDA SOUZA ALMEIDA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|012005|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2716
+41|400013115398|1000042301|DAIANE RIBEIRO PONCIANO|03142508597||01031992|Feminino|Aluno nao quis declarar cor/raca|PATRICIA RIBEIRO DOS SANTOS|Brasileira|29|2908507|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2234
+41||1000057272|DAMIANA MARIA CERQUEIRA SILVA|05374894528||11021997|Feminino|Aluno nao quis declarar cor/raca|JULICE EVANGELISTA DE CERQUEIRA|Brasileira|29|2914505|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|286
+41|400019737469|1000055345|DANIEL SANTANA DE BRITO|06623822500||11021996|Masculino|Aluno nao quis declarar cor/raca|DAMARES SANTANA DE BRITO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|405
+41||1000057273|DANIELLE CAVALCANTE DOS SANTOS|06080781581||23111997|Feminino|Aluno nao quis declarar cor/raca|MARIA ENEIDE CAVALCANTE DOS SANTOS|Brasileira|29|2931905|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|012015|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|60
+41||1000057854|DANIELLE DOS SANTOS MASCARENHAS|06833199574||07091997|Feminino|Aluno nao quis declarar cor/raca|MARIA APARECIDA SANTANA DOS SANTOS MASCARENHAS|Brasileira|29|2908309|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|286
+41|400011247549|1000039114|DAYANA VIEIRA SILVA|03097192590||06081987|Feminino|Aluno nao quis declarar cor/raca|MARIA DUCILIA VIEIRA SILVA|Brasileira|35|3550308|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Nao|Sim|Nao|Nao|Nao|Sim|Sim|Nao||Nao||Nao||Sim|Sim|2975|2654
+41|400008348022|1000021611|DAYANE CASTRO GOMES|00506306526||17051982|Feminino|Aluno nao quis declarar cor/raca|NEUZA MARIA CASTRO GOMES|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022008|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2475
+41||1000057274|DAYANE RODRIGUES DE SOUZA|04207914501||04101987|Feminino|Aluno nao quis declarar cor/raca|CARMELITA RODRIGUES DE SOUZA|Brasileira|29|2930402|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|286
+41|400010379501|1000039115|DEBORA DA SILVA BASTOS|05777819524||11051992|Feminino|Aluno nao quis declarar cor/raca|JUCIMARA PEREIRA DA SILVA BASTOS|Brasileira|29|2914000|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Nao|Nao|Sim|Nao|Nao|Nao|Nao|||||||||2975|2716
+41|400013115162|1000041910|DECIVALDO BARBOSA DE QUEIROZ JUNIOR|06045366581||09061993|Masculino|Aluno nao quis declarar cor/raca|MARIA DENILDES SANTANA DE QUEIROZ|Brasileira|35|3550308|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2249
+41|400008349951|2000031246|DENISE DE ALMEIDA OLIVEIRA|05277948562||07031991|Feminino|Aluno nao quis declarar cor/raca|VALMIR DE ALMEIDA OLIVEIRA|Brasileira|29|2908408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022009|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Sim|Nao||Sim|Sim|Nao||Nao||2975|2654
+41|400013115163|1000041912|DIEGO BISPO DOS SANTOS|02515803504||29121990|Masculino|Aluno nao quis declarar cor/raca|RITA DE CASSIA BISPO DOS SANTOS|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1229
+41|400011247008|1000037588|DIEGO FREITAS LEITE DE ALMEIDA|04805744561||27041990|Masculino|Aluno nao quis declarar cor/raca|ROSE MARY FREITAS LEITE DE ALMEIDA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012010|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|2654
+41|400019737479|1000052180|DIEGO LINO SILVA E SILVA|05592456530||07061996|Masculino|Aluno nao quis declarar cor/raca|JUCIARA LINO SILVA E SILVA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Sim|Sim|Sim|Nao||Nao||Nao||2975|690
+41|400019737481|1000055670|DIOGENES DE ARAGAO DAMASCENO|03325290531||22071988|Masculino|Aluno nao quis declarar cor/raca|JAMILE DE ARAGAO DAMASCENO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|405
+41|400019737484|1000055576|DORIELTON MAURICIO DOS SANTOS CRUZ|05900676560||23061994|Masculino|Aluno nao quis declarar cor/raca|MARIA SONIA DOS SANTOS CRUZ|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|464
+41|400017388272|1000050042|EDENBERGUE LIMA NERES|04825052576||19111992|Masculino|Aluno nao quis declarar cor/raca|EDINALVA OLIVEIRA LIMA|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|946
+41|400013115164|1000041913|EDENISIO ANTONIO DOS SANTOS|08205744572||28051956|Masculino|Aluno nao quis declarar cor/raca|MARIA HELENA DA SILVA DOS SANTOS|Brasileira|29|2928604|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1154
+41|400001450044|1000050043|EDER NASCIMENTO SANTOS|00571414524||25061982|Masculino|Aluno nao quis declarar cor/raca|MARIA DOS REIS NASCIMENTO SANTOS|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1006
+41||1000057275|EDGAR ROCHA DE SOUZA NETO|06960271517||23041994|Masculino|Aluno nao quis declarar cor/raca|DILMA DA SILVA SOUZA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|286
+41|400013115399|1000042302|EDGEIZA SANTOS GOMES|03886596532||01011990|Feminino|Aluno nao quis declarar cor/raca|MARIA RITA DOS SANTOS MACHADO|Brasileira|29|2914505|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Nao|Sim|Nao|Nao|Nao|Sim|Sim|Nao||Nao||Nao||Sim|Sim|2975|2204
+41|400014849018|1000043527|EDINAEL DE SANTANA SANTOS|06124413507||02081992|Masculino|Aluno nao quis declarar cor/raca|MARIA APARECIDA DE SANTANA SANTOS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|012012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|646
+41|400008350479|2000032047|EDSON CARLOS CORREIA BARROS|01667739565||16051981|Masculino|Aluno nao quis declarar cor/raca|NOEMIA CORREIA BARROS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012009|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1934
+41|400007249946|1000052181|EDSON DIAS ANGELO|01675601585||24021984|Masculino|Aluno nao quis declarar cor/raca|HELENA DOS SANTOS ANGELO|Brasileira|29|2903276|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|750
+41|400010332497|1000050564|EDSON SANTANA REIS|84068752591||16051991|Masculino|Aluno nao quis declarar cor/raca|ROSANE DOUSA DE SANTANA|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|022013|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|60
+41|400019738088|1000052182|EDUARDO JOSE DE SANTANA JUNIOR|05706682550||04051994|Masculino|Aluno nao quis declarar cor/raca|EDNA ANDRADE DA SILVA|Brasileira|29|2910701|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|509
+41|400017388280|1000046362|ELIANA MACHADO DA SILVA|04898022570||11021992|Feminino|Aluno nao quis declarar cor/raca|ANTONIA MACHADO DA SILVA|Brasileira|29|2926301|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1125
+41|400019738097|1000054896|ELIEFERSON DE SOUZA AMORIM|07108934507||08121992|Masculino|Aluno nao quis declarar cor/raca|ISABELA BAHIA DE SOUZA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Nao|Sim|Nao|Nao|Nao|Nao|Sim|Nao||Nao||Nao||Sim|Sim|2975|390
+41|400019738099|1000052554|ELISABETE LEAO SALES DOS SANTOS|07447646539||01061997|Feminino|Aluno nao quis declarar cor/raca|MARIA MARLENE DE JESUS LEAO|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|884
+41|400019738100|1000054897|ELISANGELA ARAUJO VIEIRA|00561335532||09121978|Feminino|Aluno nao quis declarar cor/raca|MARIA LUCIA LIMA DE ARAUJO|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|330
+41|400008349952|2000031248|ELLANE DA COSTA LIMA|03476550508||02121987|Feminino|Aluno nao quis declarar cor/raca|NICIAS DA COSTA LIMA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Formado||Primeiro semestre|Nao|022009|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2975
+41|400017388296|1000050045|ELMO GOMES SOUZA|06509293579||19051993|Masculino|Aluno nao quis declarar cor/raca|MARIA DO ROSARIO DE JESUS GOMES SOUZA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|022013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|286
+41|400019738105|1000054898|ELVIA CRISTINA SILVA SANTOS|85860957530||09031995|Feminino|Aluno nao quis declarar cor/raca|VALDINEIDE OLIVEIRA DA SILVA SANTOS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|449
+41|400014849021|1000045024|ELYSSON SOARES FONSECA|05554402577||07081990|Masculino|Aluno nao quis declarar cor/raca|EUGENIA ENEDINA FONSECA DOS SANTOS|Brasileira|26|2601607|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|022012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|750
+41|400017388298|1000050567|EMANUELLE ALMEIDA LIMA|06551420532||21051995|Feminino|Aluno nao quis declarar cor/raca|MARLENE SOUZA DE ALMEIDA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1229
+41|400013114588|1000040854|EMERSON SANTOS OLIVEIRA|05887405511||22051990|Masculino|Aluno nao quis declarar cor/raca|JUCINEIDE FERREIRA DOS SANTOS OLIVEIRA|Brasileira|29|2931509|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012011|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|1410
+41|400019052565|1000054900|ERENDIRA SANTOS DA SILVA|03145624512||23091996|Feminino|Aluno nao quis declarar cor/raca|NICELIA CARDOSO SANTOS|Brasileira|29|2922508|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|509
+41|400013114590|1000040856|ERICA ANDREIA SOTERO SILVA|04272598511||12111991|Feminino|Aluno nao quis declarar cor/raca|JUCIVONE SANTOS SOTERO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2594
+41|400019738108|1000052185|ERICA SOUZA DA PAZ BOAVENTURA|03066218511||26081987|Feminino|Aluno nao quis declarar cor/raca|ALAIDE SOUZA DA PAZ|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|405
+41|400012713658|1000054901|ERICO MENDES SOUZA MASCARENHAS|05277977589||15111992|Masculino|Aluno nao quis declarar cor/raca|SELMA MENDES SOUZA MASCARENHAS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|390
+41|400019738113|1000054902|ERIKA MAELLE DOS SANTOS REIS|06103736501||17051995|Feminino|Aluno nao quis declarar cor/raca|MARINALVA DOS SANTOS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|104
+41||1000059384|EVALDO DE OLIVEIRA MORAES|51925052591||03101968|Masculino|Aluno nao quis declarar cor/raca|BEATRIZ FERREIRA DE OLIVEIRA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2960|0
+41|400013695345|1000052679|EVANE BARBOSA BASTOS|03980044556||06101989|Feminino|Aluno nao quis declarar cor/raca|ELICE BARBOSA BASTOS|Brasileira|29|2914000|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|931
+41|400019738117|1000054903|EZEQUIEL SANTIAGO GOMES|07429260527||11031995|Masculino|Aluno nao quis declarar cor/raca|ALEXANDRA SANTIAGO GOMES|Brasileira|35|3550308|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|750
+41|400019738118|1000052186|EZIQUEL DE ALMEIDA SANTOS|02768436577||08091983|Masculino|Aluno nao quis declarar cor/raca|MARIA LOPES DE ALMEIDA SANTOS|Brasileira|29|2930709|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|616
+41|400008348558|1000022392|FABIANA FERNANDES DA SILVA|04669941500||18091989|Feminino|Aluno nao quis declarar cor/raca|JOSELITA MARTINS DA SILVA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012008|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2716
+41|400011247551|1000039117|FABIANO GONCALVES MENESES|01268141550||15041983|Masculino|Aluno nao quis declarar cor/raca|EDIVALDA GONCALVES MENESES|Brasileira|29|2928802|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2716
+41||1000057276|FABRINE DA SILVA CRESPO|06761081564||30071996|Feminino|Aluno nao quis declarar cor/raca|RITA CLEA MACHADO DA SILVA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|60
+41|400019738119|1000052187|FELIPE ALVES SILVA|86075928588||21121994|Masculino|Aluno nao quis declarar cor/raca|ANNE CRISTINA ALVES SILVA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012014|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|405
+41||1000057505|FELIPE JOSE CERQUEIRA PINHEIRO|06719080571||16051995|Masculino|Aluno nao quis declarar cor/raca|VALDIRENE DA SILVA CERQUEIRA|Brasileira|29|2909802|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|286
+41|400013115165|1000041914|FELIPE MARTINS OLIVEIRA SANTANA|06145945532||22061992|Masculino|Aluno nao quis declarar cor/raca|NILZA CONCEICAO OLIVEIRA SANTANA|Brasileira|29|2914000|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1919
+41|400014849022|1000045025|FELIPE QUEIROZ PINHEIRO|04899739575||16121990|Masculino|Aluno nao quis declarar cor/raca|MARCIA CRISTINA QUEIROZ PINHEIRO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Sim|Nao||Sim|Sim|Nao||Nao||2975|1291
+41|400011247553|1000039120|FELIPE SILVA BARRETO DE SOUZA|05305130565||05061991|Masculino|Aluno nao quis declarar cor/raca|SUELI DIAS DA SILVA|Brasileira|29|2918357|BRA|Nao|||||||||||||
+42||15409||Vespertino|Formado||Primeiro semestre|Nao|022010|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|2975
+41|400019738122|1000052927|FERNANDO NUNES DOS SANTOS|06914140502||27011995|Masculino|Aluno nao quis declarar cor/raca|FRANCISCA ALZENIR NUNES DOS SANTOS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|345
+41|400001473564|1000021615|FLAVIA SANTOS AZEVEDO|01997260514||02101986|Feminino|Aluno nao quis declarar cor/raca|MARIA LUCIA SANTOS AZEVEDO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022008|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2535
+41|400008345248|1000006630|FLORENTINO GONCALVES DA COSTA|05486157568||04111943|Masculino|Aluno nao quis declarar cor/raca|ANTONIA GONCALVES DA COSTA|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022007|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2716
+41|400017388318|1000050046|FRANCIELLE BORGES DE JESUS|05191479521||23021993|Feminino|Aluno nao quis declarar cor/raca|ALOISIA BORGES|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|464
+41|400019650654|1000052188|FRANCISCO VIDAL LINDENBERG|60735696373||11121995|Masculino|Aluno nao quis declarar cor/raca|MARIANNA VIDAL LINDENBERG|Brasileira|17|1709500|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|012014|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|0
+41|400017388323|1000059620|FRANKLIN DE SOUSA SILVA|04939766551||07031992|Masculino|Aluno nao quis declarar cor/raca|IRACI PEREIRA DE SOUSA SILVA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||3281|0
+41|400007247940|1000040857|FREDERICO DA SILVA RIBEIRO|00626320518||30051980|Masculino|Aluno nao quis declarar cor/raca|DIVA DA SILVA RIBEIRO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|705
+41||1000058806|GABRIEL LIMA DE ALMEIDA SENA|06333096563||18091998|Masculino|Aluno nao quis declarar cor/raca|CRISTIANE LIMA DE ALMEIDA SENA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|0
+41|400017388327|1000046365|GABRIEL SANTANA SILVA|02718857501||14101992|Masculino|Aluno nao quis declarar cor/raca|ELIETH SANTANA LOPES|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Sim|Sim|Sim|Nao||Nao||Nao||2975|464
+41||1000057277|GABRIELA SANTOS SILVA|07468469598||05011998|Feminino|Aluno nao quis declarar cor/raca|TATIANA DE JESUS SANTOS|Brasileira|35|3534401|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|345
+41|400017388332|1000046367|GEANE SENA ARAUJO|00481746536||10081976|Feminino|Aluno nao quis declarar cor/raca|JASSIONETE SENA ARAUJO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1229
+41|400008346077|1000007893|GELTON HENRIQUE ALVES JUNIOR|01369653506||03111983|Masculino|Aluno nao quis declarar cor/raca|ANTONINA MARIA XAVIER ALVES|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|022005|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2234
+41||1000057503|GENESIO RODRIGUES BARBOSA NETO|06083881579||06111993|Masculino|Aluno nao quis declarar cor/raca|CLAUDIA DOS SANTOS GOMES|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|60
+41|400017388338|1000050918|GEORGE GENESIS ALVES GAMA|06246707599||05111995|Masculino|Aluno nao quis declarar cor/raca|ANETE ALVES BATISTA|Brasileira|29|2914604|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022013|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|1050
+41|400011247011|1000037592|GILCIMARA BISPO SOUZA|00595341500||04111980|Feminino|Aluno nao quis declarar cor/raca|MARIA JOSE DE JESUS BISPO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2916
+41|400014838361|1000052189|GILDEMAR LIMA DE JESUS|03102578594||10021991|Masculino|Aluno nao quis declarar cor/raca|VERA LUCIA LIMA DE JESUS|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|345
+41||1000057278|GILMAR CERQUEIRA SOUZA|07234009540||23061997|Masculino|Aluno nao quis declarar cor/raca|EDNA CERQUEIRA SOUZA|Brasileira|35|3513504|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|226
+41|400014849025|1000043531|GILMARIO PEREIRA DE CERQUEIRA|04012067508||08031989|Masculino|Aluno nao quis declarar cor/raca|CRISPINA PEREIRA DE CERQUEIRA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|012012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|226
+41|400008350512|2000032081|GILSONEY RIOS DE OLIVEIRA|61422665534||05111973|Masculino|Aluno nao quis declarar cor/raca|JOSEFA RIOS DE OLIVEIRA|Brasileira|29|2917508|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|012009|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2716
+41|400011247012|1000037593|GILVANIA CONCEICAO DOS SANTOS|01504014502||01071984|Feminino|Aluno nao quis declarar cor/raca|GILDETE CONCEICAO DOS SANTOS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Formado||Primeiro semestre|Nao|012010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2975
+41|400017388342|1000050919|GILVANIA DOS SANTOS LIMA DE JESUS|00204428580||14011980|Feminino|Aluno nao quis declarar cor/raca|ANA MARIA PEREIRA DOS SANTOS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1351
+41||1000058808|GISELE CORREIA PRADO|07893830557||23081996|Feminino|Aluno nao quis declarar cor/raca|JAQUELINE CORREIA PRADO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|0
+41|400008345653|1000007255|GLAUCIA COSTA DE OLIVEIRA|03413946536||10091986|Feminino|Aluno nao quis declarar cor/raca|JAILDA COSTA DE OLIVEIRA|Brasileira|29|2906808|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|2654
+41|400018636724|1000055578|HARONN BORGES DE SENNA|06027014571||02101992|Masculino|Aluno nao quis declarar cor/raca|DINALVA BORGES DE SENNA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|345
+41|400014849027|1000043818|HELENA RIBEIRO DA SILVA|06604187543||31081992|Feminino|Aluno nao quis declarar cor/raca|JAILMA RIBEIRO DOS SANTOS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Sim|Internacional||Intercambio|PRT|Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|1770
+41|400008349954|2000031250|HELTON DA SILVA VIEIRA|03138997546||14111985|Masculino|Aluno nao quis declarar cor/raca|DALCI DA SILVA VIEIRA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022009|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2234
+41|400014849029|1000043532|HIURI PEREIRA DAS MERCES BRITO|05963957524||17111994|Masculino|Aluno nao quis declarar cor/raca|VALDENICE PEREIRA DAS MERCES BRITO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2609
+41|400017388359|1000050050|HORTENCIA DE SANT ANA OLIVEIRA|05947563592||09111994|Feminino|Aluno nao quis declarar cor/raca|MARINALVA DE SANT ANA OLIVEIRA|Brasileira|29|2928000|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|946
+41||1000054904|IGOR CARVALHO ASSUNCAO|02098132530||04061996|Masculino|Aluno nao quis declarar cor/raca|MARIA ERIEDNA CARVALHO ASSUNCAO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|286
+41|400011247555|1000039123|INABELLA DOS SANTOS DIAS|99489414549||04081982|Feminino|Aluno nao quis declarar cor/raca|RITA ISABEL DOS SANTOS DIAS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1981
+41|400019738140|1000054905|INDIARA OLIVEIRA DE ALMEIDA|07094364598||22031996|Feminino|Aluno nao quis declarar cor/raca|ILZA OLIVEIRA DE ALMEIDA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|405
+41|400014849031|1000043535|INGRID LIMA SILVA|06006645548||29011994|Feminino|Aluno nao quis declarar cor/raca|ELISANGELA CRISTINA SOARES LIMA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|012012|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|181
+41||1000057279|INGRID RIBEIRO AZEVEDO SOUSA|02197897543||09121998|Feminino|Aluno nao quis declarar cor/raca|ELOISE MARY RIBEIRO AZEVEDO SOUSA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|286
+41|400017388369|1000050584|IONE MACHADO SANTOS|06611263586||28071995|Feminino|Aluno nao quis declarar cor/raca|MARIA MACHADO SANTOS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1291
+41|400008350483|2000032051|IRENILDA COUTINHO SIMOES|03991147505||03021990|Feminino|Aluno nao quis declarar cor/raca|EDNA ANDRADE COUTINHO SIMOES|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Formado||Primeiro semestre|Nao|012009|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|2975
+41|400013114594|1000040862|ISABEL ALMEIDA SANTANA|06176751551||14051993|Feminino|Aluno nao quis declarar cor/raca|ANACELIA ALMEIDA E ALMEIDA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Formado||Primeiro semestre|Nao|012011|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|2975
+41|400011247014|1000037595|ISABELA BASTOS ALVES|02571832565||01031989|Feminino|Aluno nao quis declarar cor/raca|MARIA DA GLORIA PEREIRA BASTOS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2071
+41||1000059382|ISABELA CATARINA DA SILVA COSTA|01455404560||23041996|Feminino|Aluno nao quis declarar cor/raca|MARINILDA COUTINHO SILVA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|0
+41||1000057280|ISABELA GARCIA MARINHO|05914881595||21031996|Feminino|Aluno nao quis declarar cor/raca|TEREZINHA MARINHO DA CRUZ GARCIA|Brasileira|29|2922904|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|60
+41||1000057604|ISRAEL SANTOS SILVA|03122452545||14121996|Masculino|Aluno nao quis declarar cor/raca|EDNA MARIA DOS SANTOS SILVA|Brasileira|||BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|286
+41|400013114595|1000040863|ITALO JONATAS ALVES ALMEIDA|05572531529||04051993|Masculino|Aluno nao quis declarar cor/raca|SOLANGE ALVES DE ALMEIDA|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Nao|Nao|Sim|Nao|Nao|Nao|Nao|||||||||2975|1934
+41||1000057281|IUKA LIMA CERQUEIRA|07113624596||06121996|Feminino|Aluno nao quis declarar cor/raca|JAIZA DO SACRAMENTO LIMA|Brasileira|29|2926301|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|345
+41|400011247557|1000039125|IVANNA PEREIRA SILVA LIMA|03372856597||24061987|Feminino|Aluno nao quis declarar cor/raca|MARIA JOSE SILVA DE CARVALHO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2654
+41|400008348789|2000000829|JACIARA SILVA SOUZA|03736584512||22061988|Feminino|Aluno nao quis declarar cor/raca|MARIZA DA SILVA SOUZA|Brasileira|29|2914604|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|012006|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|2716
+41|400014849053|1000043537|JAIME RAMOS DA SILVA|98286811534||17081978|Masculino|Aluno nao quis declarar cor/raca|MARIA DE LOURDES DOS SANTOS|Brasileira|29|2928604|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1499
+41|400013115170|1000041921|JAIR DE ARGOLO GOMES|01044595574||08071982|Masculino|Aluno nao quis declarar cor/raca|ALDA MARIA DE ARGOLO GOMES|Brasileira|29|2929305|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1666
+41|400008348427|1000050052|JAMILE SANTOS DE CARVALHO|03382301571||13071989|Feminino|Aluno nao quis declarar cor/raca|EDIVONETE SANTOS DE CARVALHO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|022013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|60
+41|400013114596|1000040864|JAMYLI DE LIMA DIAS|06175476530||01011993|Feminino|Aluno nao quis declarar cor/raca|LUCIANA CERQUEIRA DE LIMA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2916
+41|400013115446|1000042422|JANAINA SOUZA SOUZA|03491896509||23041990|Feminino|Aluno nao quis declarar cor/raca|ANA RITA OLIVEIRA SOUZA SOUZA|Brasileira|29|2926301|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1276
+41|400017388394|1000050053|JAQUELINE DOS SANTOS ESPINDULA|06637993506||22101995|Feminino|Aluno nao quis declarar cor/raca|EVA VILMA CRIANCA DOS SANTOS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022013|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|241
+41|400017388395|1000046370|JAQUELINE VIEIRA NASCIMENTO|05880152537||18021993|Feminino|Aluno nao quis declarar cor/raca|MARIA DAS DORES VIEIRA|Brasileira|29|2931905|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1351
+41|400013115171|1000041922|JAQUES LEONE MATOS DE OLIVEIRA|05809761577||28031993|Masculino|Aluno nao quis declarar cor/raca|IRONILDE MOURA DE MATOS OLIVEIRA|Brasileira|29|2902104|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022011|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|1336
+41||1000057283|JAZIA PAULO DE QUEIROZ CARVALHO|02308068566||12091995|Feminino|Aluno nao quis declarar cor/raca|MARIA LUIZA PAULO DE QUEIROZ CARVALHO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|345
+41|400014849055|1000045033|JESSICA MATOS BARRETO|03240968525||15031991|Feminino|Aluno nao quis declarar cor/raca|RENILZA CINTRA MATOS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1351
+41|400019738161|1000052556|JESSICA SOARES DE CARVALHO|06397346501||26081994|Feminino|Aluno nao quis declarar cor/raca|GERALDA HELENA DIAS SOARES|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|449
+41||1000057284|JOANA CLARA SILVA SANTIAGO|01350043575||10091997|Feminino|Aluno nao quis declarar cor/raca|MARIA FERREIRA DA SILVA SANTIAGO|Brasileira|16|1600303|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|345
+41|400019738163|1000052191|JOAO FELIPE GUIMARAES DA SILVA|06969124576||06101996|Masculino|Aluno nao quis declarar cor/raca|CLAUDIA CRISTINA GUIMARAES PEREIRA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|012014|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|226
+41|400014849056|1000045676|JOAO LUIZ DOS SANTOS|34932160500||06051965|Masculino|Aluno nao quis declarar cor/raca|MARIA DA CONCEICAO DOS SANTOS|Brasileira|28|2802908|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022012|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|1440
+41|400019738166|1000052619|JOAO PEDRO LIBORIO DANTAS|07379563564||25061995|Masculino|Aluno nao quis declarar cor/raca|LEDIMAR CORREIA LIBORIO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012014|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|345
+41|400019738168|1000052561|JOAO VITOR DA SILVA SOUZA|05562658585||25041996|Masculino|Aluno nao quis declarar cor/raca|JACIRENE DA SILVA SOUZA|Brasileira|29|2914000|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|226
+41||1000058813|JOAO VITOR SANTIAGO PIMENTEL|04526518590||02011997|Masculino|Aluno nao quis declarar cor/raca|CINTHIA KARINNE SANTIAGO PRAZERES PIMENTEL|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2960|0
+41|400017388414|1000046371|JOEDILSON JESUS DOS REIS|83614826520||23021979|Masculino|Aluno nao quis declarar cor/raca|IZABEL PINHEIRO DE JESUS|Brasileira|||BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|884
+41|400014849057|1000045377|JOHNADSON DE JESUS VITORIA|05810624502||08021992|Masculino|Aluno nao quis declarar cor/raca|MARIA CRISTINA PEREIRA DE JESUS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1306
+41|400017388418|1000047409|JOILMA CERQUEIRA SANTOS|05751555589||26101991|Feminino|Aluno nao quis declarar cor/raca|MARIA EUNICE CERQUEIRA SANTOS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1291
+41|400017388423|1000050056|JORGE PEDRO BARROS|24272531549||02051963|Masculino|Aluno nao quis declarar cor/raca|ISALTINA PORTO MOREIRA|Brasileira|29|2929305|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1050
+41||1000057285|JOSE CLAUDIO MOREIRA DA SILVA|07878203504||27041997|Masculino|Aluno nao quis declarar cor/raca|CLAUDIA DO NASCIMENTO MOREIRA SDA SILVA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|164
+41|400008348628|1000052192|JOSE CLOVIS FERREIRA SANTANA|96139404568||15011971|Masculino|Aluno nao quis declarar cor/raca|CLEMILDA FERREIRA SANTANA|Brasileira|29|2917607|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|750
+41|400013114589|1000040855|JOSE ELMANO SOUZA BRITO|04530625559||21041990|Masculino|Aluno nao quis declarar cor/raca|MARILENE SOUZA DOS SANTOS BRITO|Brasileira|53|5300108|BRA|Nao|||||||||||||
+42||15409||Vespertino|Formado||Primeiro semestre|Nao|012011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2975
+41||1000058814|JOSE RICARDO JESUS RIBEIRO|96908521591||25041979|Masculino|Aluno nao quis declarar cor/raca|JUDITE JESUS RIBEIRO|Brasileira|29|2918001|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2960|0
+41|400011247016|1000037599|JOSEANE RODRIGUES AZEVEDO|05554281508||15011986|Feminino|Aluno nao quis declarar cor/raca|LAZARA MENEGASSI AZEVEDO|Brasileira|||BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2776
+41|400014849058|1000045380|JOSINEIDE AZEVEDO ROCHA|05676736500||10041993|Feminino|Aluno nao quis declarar cor/raca|NEIDE PEREIRA AZEVEDO|Brasileira|29|2928000|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|345
+41||1000058810|JOYCE CLEIDE REIS DOS SANTOS DE JESUS|06807958552||24091997|Feminino|Aluno nao quis declarar cor/raca|CLEIDE REIS DOS SANTOS DE JESUS|Brasileira|29|2901007|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|59
+41||1000058811|JULIA KELLY SANTOS REIS|05864290505||16121997|Feminino|Aluno nao quis declarar cor/raca|MONICA DA SILVA SANTOS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|0
+41|400014849060|1000043540|JULIANA MANGABEIRA RIBEIRO|03907230531||31051988|Feminino|Aluno nao quis declarar cor/raca|DINALVA MANGABEIRA RIBEIRO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Sim|Sim|Sim|Nao||Nao||Nao||2975|2249
+41|400017388435|1000046374|JULIANA SOUZA DA SILVA|02664226592||26011986|Feminino|Aluno nao quis declarar cor/raca|NEUZA DOS SANTOS SOUZA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|931
+41|400017388436|1000050058|JULIO FIRMO DE QUEIROZ|81918410534||20031982|Masculino|Aluno nao quis declarar cor/raca|MARIA DEUSDETE FIRMO DE QUEIROZ|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1229
+41||1000058812|JULLYANE DOS SANTOS FERREIRA|07443058535||12121997|Feminino|Aluno nao quis declarar cor/raca|JULIANA SILVA DOS SANTOS FERREIRA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|0
+41|400019738180|1000052194|JULYANNA SILVA RENOVATO|07477948550||05121996|Feminino|Aluno nao quis declarar cor/raca|CICERA MARIA SILVA RENOVATO|Brasileira|||BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|012014|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|0
+41|400011247561|1000039129|JUSANDRO LINS REIS|74408844500||24041977|Masculino|Aluno nao quis declarar cor/raca|ANTONIA LINS REIS|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022010|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|1785
+41|400017388437|1000046375|JUSSARA LIMA DA CONCEICAO|05849854525||12041991|Feminino|Aluno nao quis declarar cor/raca|GILCELIA FERREIRA DE LIMA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|946
+41|400017388441|1000050922|KAMILLA CHAGAS BRITO|03636406574||29071989|Feminino|Aluno nao quis declarar cor/raca|MARIA DA CONCEICAO CHAGAS BRITO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|765
+41||1000059378|KANANDA FREITAS CARDOSO|04434737570||29041996|Feminino|Aluno nao quis declarar cor/raca|MARIA DAS GRACAS SILVA FREITAS|Brasileira|29|2909802|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|0
+41|400019738183|1000055346|KAROLINE OLIVEIRA BRANDAO|03625904519||10111995|Feminino|Aluno nao quis declarar cor/raca|MARINEIDE DA ANUNCIACAO OLIVEIRA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|464
+41|400014849061|1000043541|KATIA LIDIANE OLIVEIRA SANTOS|03110611503||20081992|Feminino|Aluno nao quis declarar cor/raca|CELIDIA OLIVEIRA DOS SANTOS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|012012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|390
+41|400019738184|1000052195|KATIANY LAYRE MIRANDA ALVES|07285665592||10051996|Feminino|Aluno nao quis declarar cor/raca|CHRISTIANA OLIVEIRA MIRANDA ALVES|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|012014|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|0
+41|400014849062|1000043543|LAECIO SILVA MALTA|04220570535||14101992|Masculino|Aluno nao quis declarar cor/raca|EDNA MARIA DE SOUZA SILVA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Nao|Nao|Sim|Nao|Nao|Nao|Nao|||||||||2975|2431
+41|400014849063|1000043544|LAISE DOS SANTOS DE JESUS|04969373590||10071993|Feminino|Aluno nao quis declarar cor/raca|AUREA DOS SANTOS DE JESUS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Sim|Sim|Sim|Nao||Nao||Nao||2975|2264
+41|400014849064|1000045034|LARISSA CHEYENNE NEPOMUCENO DE JESUS|04300663505||09111990|Feminino|Aluno nao quis declarar cor/raca|JOSELIA NEPOMUCENO DE JESUS|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1529
+41|400019738197|1000052196|LARISSA SANTANA ALMEIDA|06583304546||14031996|Feminino|Aluno nao quis declarar cor/raca|SANDRA SIDERLEY SANTANA ALMEIDA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012014|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|509
+41|400019738201|1000054909|LAZARO DE SOUZA BARBOSA|86031616580||16031996|Masculino|Aluno nao quis declarar cor/raca|MARILUCIA CRUZ DE SOUZA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Nao|Sim|Nao|Nao|Nao|Nao|Sim|Nao||Nao||Nao||Sim|Sim|2975|571
+41|400013115172|1000041925|LEANDRO AUGUSTO DE JESUS|05109237557||21011990|Masculino|Aluno nao quis declarar cor/raca|MARIA EDILEUZA DE JESUS|Brasileira|35|3518206|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|226
+41|400019738202|1000055347|LEANE SANTOS ALMEIDA|06226673516||20051996|Feminino|Aluno nao quis declarar cor/raca|LUCIMEIRE MARIA SANTOS ALMEIDA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|226
+41|400007199331|1000037603|LEICE PAULA SANTOS BORGES|03357340577||04061988|Feminino|Aluno nao quis declarar cor/raca|GILDA HELENA SANTOS BORGES|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2716
+41|400017388468|1000046376|LELIANE GONCALVES MACHADO|06057660536||08031992|Feminino|Aluno nao quis declarar cor/raca|LUZINEIDE GONCALVES GOMES|Brasileira|29|2928802|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1651
+41|400019738204|1000055672|LEONARDO BRITO DE ARAUJO|06250121510||15071995|Masculino|Aluno nao quis declarar cor/raca|MARIA NILZA BRITO DE ARAUJO|Brasileira|29|2930501|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|345
+41|400019738205|1000055581|LEONARDO CARVALHO OLIVEIRA|06010299500||18071994|Masculino|Aluno nao quis declarar cor/raca|MARIA NILZA VARVALHO DE OLIVEIRA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|226
+41||1000059528|LEONARDO JUSTINO SANTANA|60910270341||04071996|Masculino|Aluno nao quis declarar cor/raca|REJANES MARIA JUSTINO SANTANA|Brasileira|21|2104503|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|0
+41||1000057715|LEONARDO NASCIMENTO ARAUJO|05605214560||03061993|Masculino|Aluno nao quis declarar cor/raca|LUISA NASCIMENTO ARAUJO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|104
+41|400011247018|1000037601|LEONARDO PEDREIRA DE OLIVEIRA|83987690500||17061986|Masculino|Aluno nao quis declarar cor/raca|MARCIA MARIE DE SOUZA PEDREIRA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|012010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1455
+41|400014849065|1000043546|LETICIA BARBOSA DE AZEVEDO|03838232500||18101993|Feminino|Aluno nao quis declarar cor/raca|GEOGIA BARBOSA DE AZEVEDO|Brasileira|29|2933109|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|012012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1080
+41|400014849066|1000043821|LETICIA CERQUEIRA SILVA DOS SANTOS|05806546560||08011993|Feminino|Aluno nao quis declarar cor/raca|TANIA CERQUEIRA SILVA DOS SANTOS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|690
+41|400014849067|1000043547|LETICIA DORIA VIDOTTI|06427190555||05031994|Feminino|Aluno nao quis declarar cor/raca|FABIA DORIA SOUZA VIDOTTI|Brasileira|31|3106200|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012012|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|509
+41|400013115402|1000042307|LINALDO SOUZA DA SILVA|01071919547||22041984|Masculino|Aluno nao quis declarar cor/raca|CRISPINA GALDINA SOUZA DA SILVA|Brasileira|29|2928000|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1410
+41|400008344183|1000004669|LINSMAR DOS REIS ARAUJO|98700499587||25041980|Masculino|Aluno nao quis declarar cor/raca|ALICE DOS REIS ARAUJO|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|012005|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2716
+41|400007190853|1000039421|LIVIA NAIARA SANTOS DE AZEVEDO|03316984550||18021988|Feminino|Aluno nao quis declarar cor/raca|MARIA NILZA SANTOS DE AZEVEDO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022010|Publico|Nao|Nao|Nao|Nao||Sim|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1889
+41||1000057491|LORENA ALMEIDA DE BRITO|04229902565||08101997|Feminino|Aluno nao quis declarar cor/raca|MARIA VIRGINIA OLIVEIRA DE ALMEIDA|Brasileira|29|2908507|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|286
+41||1000058820|LORENA DE ALMEIDA VASCONCELOS DANTAS|05888416509||13101994|Feminino|Aluno nao quis declarar cor/raca|SUZETE DE ALMEIDA VASCONCELOS DANTAS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|0
+41||1000057980|LORENA DINIS FERREIRA|02548243583||25101997|Feminino|Aluno nao quis declarar cor/raca|SILVANA DINIS FERREIRA|Brasileira|29|2918001|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|286
+41||1000057289|LUANA CARDOSO FONSECA|07126073585||24031996|Feminino|Aluno nao quis declarar cor/raca|ADRIANA PAIM CARDOSO|Brasileira|35|3550308|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|345
+41|400008922746|1000041927|LUANA MAGALHAES SANTOS|84279010544||07071988|Feminino|Indigena|GESSILDA LOPES MAGALHAES|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Sim|Nao|Sim|Nao|Nao|||||||||||||Sim|Nao|Nao|Sim|Nao|Nao|Nao|Sim|Sim|Sim|Nao||Nao||Nao||2975|2041
+41|400017388488|1000046377|LUCAS ALMEIDA MARTINS|05807986580||24031994|Masculino|Aluno nao quis declarar cor/raca|IRACEMA OLIVEIRA ALMEIDA MARTINS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|449
+41||1000058815|LUCAS BARBOZA RODRIGUES|08270748595||17111999|Masculino|Aluno nao quis declarar cor/raca|IVANICE BARBOZA RODRIGUES|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Publico|Nao|Nao|Nao|Nao||Nao|Sim|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2960|0
+41|400017388489|1000046379|LUCAS CARVALHO SANTA BARBARA|06951426589||03061995|Masculino|Aluno nao quis declarar cor/raca|MARLETE CARVALHO SANTA BARBARA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Nao|Sim|Nao|Nao|Nao|Nao|Nao|||||||||2975|1621
+41|400012630257|1000043549|LUCAS DE ASSIS MACEDO|05791672594||10051991|Masculino|Aluno nao quis declarar cor/raca|MARIA SOLEDADE OLIVEIRA DE ASSIS MACEDO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2371
+41||1000058816|LUCIANO SANTOS DO NASCIMENTO|04868413406||14101983|Masculino|Aluno nao quis declarar cor/raca|MARIA LUCIA SANTOS DO NASCIMENTO|Brasileira|26|2611606|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|0
+41|400011247565|1000039134|LUCICLEIDE PEREIRA VIEIRA|03255798574||02061988|Feminino|Aluno nao quis declarar cor/raca|MARIA LUCIA PEREIRA|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2011
+41|400019738226|1000052563|LUCYMARA DA SILVA CARVALHO|06013202559||04071995|Feminino|Aluno nao quis declarar cor/raca|ARILENE MARIA GONCALVES DA SILVA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|991
+41||1000058817|LUDIMILA DE JESUS OLIVEIRA|06459824584||26081993|Feminino|Aluno nao quis declarar cor/raca|MARIA DA CONCEICAO LIMA DE JESUS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2960|0
+41|400001578970|1000021628|LUDIMILLA DE LIMA OLIVEIRA|01579808557||14031986|Feminino|Aluno nao quis declarar cor/raca|MARIA NORMA DE LIMA OLIVEIRA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022008|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1785
+41||1000054913|LUDMILLA MIRANDA DA SILVA|04281496505||14111997|Feminino|Aluno nao quis declarar cor/raca|ROSENILDE BISPO MIRANDA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|286
+41|400011247564|1000039132|LUIS CLAUDIO DOS REIS OLIVEIRA|54975816504||28091972|Masculino|Aluno nao quis declarar cor/raca|AGDA MARIA DOS REIS OLIVEIRA|Brasileira|29|2928000|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|022010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1559
+41|400013115194|1000041930|LUIZ MARIO ARAUJO DE OLIVEIRA|94898375553||03041978|Masculino|Aluno nao quis declarar cor/raca|HELENA ARAUJO DE OLIVEIRA|Brasileira|29|2928802|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1919
+41|400012825333|1000040867|LUZIA DOS SANTOS SILVA|05408995500||01061993|Feminino|Aluno nao quis declarar cor/raca|VILMA SANTANA DOS SANTOS SILVA|Brasileira|29|2905701|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012011|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|2431
+41|400008350395|1000054914|MAIANA SANTOS FREITAS DA CONCEICAO|03350433561||08051988|Feminino|Aluno nao quis declarar cor/raca|ANA MARIA SANTOS FREITAS DA CONCEICAO|Brasileira|29|2928802|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|60
+41|400017388510|1000050924|MAILDA SANTOS DA SILVA SOUZA|05779950571||09021995|Feminino|Aluno nao quis declarar cor/raca|MARIA DO CARMO SANTOS DA SILVA SOUZA|Brasileira|29|2929008|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1244
+41|400017388514|1000046380|MANOELA MARTINS DA SILVA|06646858543||21061995|Feminino|Aluno nao quis declarar cor/raca|JOSEFA MARTINS DE OLIVEIRA SILVA|Brasileira|29|2922904|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|1681
+41|400019738235|1000055663|MARCELA MENDES BARBOSA|07073848502||01061996|Feminino|Aluno nao quis declarar cor/raca|ANA CELIA DE JESUS MENDES|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|330
+41|400013114600|1000040871|MARCELA SERRA PAUL CRUZ|06244179560||30111993|Feminino|Aluno nao quis declarar cor/raca|GERUSA QUEIROZ SERRA|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Nao|Nao|Sim|Nao|Nao|Nao|Nao|||||||||2975|2654
+41|400019738236|1000054915|MARCELLO DE ARAUJO PIMENTEL|04942745578||05031995|Masculino|Aluno nao quis declarar cor/raca|MARCIA PEREIRA DE ARAUJO PIMENTEL|Brasileira|29|2930501|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|524
+41|400014849069|1000045037|MARCELO DE JESUS SILVA|05482174590||18041990|Masculino|Aluno nao quis declarar cor/raca|MADALENA VIEIRA DE JESUS|Brasileira|29|2928000|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|646
+41|400011247020|1000037604|MARCELO DOS SANTOS RAMOS|03349396585||17021989|Masculino|Aluno nao quis declarar cor/raca|MARIA REGINA HORA DOS SANTOS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2716
+41|400014849070|1000045038|MARCELO VENICIO DA SILVA|52793974587||14121969|Masculino|Aluno nao quis declarar cor/raca|JOSEFA FRANCISCA DA SILVA|Brasileira|33|3306008|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|164
+41||1000059700|MARCILIO PEREIRA DA SILVA|01988001501||08021986|Masculino|Aluno nao quis declarar cor/raca|NAIR PEREIRA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2960|0
+41|400008348036|1000021629|MARCO AURELIO DE OLIVEIRA CARDEAL|93935706553||30061975|Masculino|Aluno nao quis declarar cor/raca|JESUITA DE OLIVEIRA CARDEAL|Brasileira|29|2928802|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022008|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2716
+41|400019738244|1000054916|MARCOS LUCAS ASSUNCAO DIAS|07005569580||25061996|Masculino|Aluno nao quis declarar cor/raca|LUCIANA ASSUNCAO DIAS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|345
+41|400008346086|1000045388|MARCOS ROCHA DA SILVA|54419590530||29041971|Masculino|Aluno nao quis declarar cor/raca|EDNA MARIA ROCHA DA SILVA|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2520
+41||1000057291|MARCOS SILVA ROCHA|06646720517||02061997|Masculino|Aluno nao quis declarar cor/raca|BARBARA BATISTA DA SILVA ROCHA|Brasileira|29|2913101|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|286
+41|400013115195|1000041931|MARIA ALICE DE SA BARBOSA MENDES|04182823583||29041991|Feminino|Aluno nao quis declarar cor/raca|FATIMA BELINDA DE SA BARBOSA MENDES|Brasileira|29|2928604|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1681
+41|400019738247|1000054917|MARIA ANA KAINE RODRIGUES DA SILVA|86070837592||02111996|Feminino|Aluno nao quis declarar cor/raca|NUBIA RODRIGUES DA SILVA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|286
+41||1000059376|MARIA DO SOCORRO DUTRA SANTOS|04901249509||08111997|Feminino|Aluno nao quis declarar cor/raca|LINDALVA SILVA DUTRA SANTOS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|0
+41||1000058824|MARIA DO SOCORRO GOMES FREIRE|07076689561||18011996|Feminino|Aluno nao quis declarar cor/raca|MARIA ELAIDE FREIRE DE MENEZES GOMES|Brasileira|||BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|0
+41|400017388534|1000047142|MARIA PAULA DOS SANTOS SILVA|06436180583||20091994|Feminino|Aluno nao quis declarar cor/raca|VANIA DOS SANTOS SILVA|Brasileira|27|2704302|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1404
+41|400013114597|1000040866|MARIANE DE JESUS NASCIMENTO|03507568560||16051989|Feminino|Aluno nao quis declarar cor/raca|ELEUTERIA DE JESUS NASCIMENTO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1859
+41|400008350508|2000032077|MARILU GOMES MAIA|00186207522||28091980|Feminino|Aluno nao quis declarar cor/raca|MARY CRISTINA GOMES|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012009|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|884
+41||1000057292|MARJORIE CARDOSO ARAUJO|05998213530||09091995|Feminino|Aluno nao quis declarar cor/raca|MAISA SANTOS CARDOSO ARAUJO|Brasileira|29|2900702|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|60
+41|400014849071|1000043822|MARLON CORREIA DE FRANCA|05007997501||31051989|Masculino|Aluno nao quis declarar cor/raca|ANA MARIA CORREIA DOS SANTOS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2309
+41||1000058823|MARLONI SANTOS MOTA|07137359531||05021998|Masculino|Aluno nao quis declarar cor/raca|MARIA GIVANILDA SANTOS MOTA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|0
+41|400008350144|2000031494|MARTA MARIA GUIMARAES ALVES DE LIMA|03524449590||04041987|Feminino|Aluno nao quis declarar cor/raca|CARMEM CASTOR DA SILVA SANTOS|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012009|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2686
+41|400019738259|1000052621|MATEUS SOARES SILVA|02971390535||06091995|Masculino|Aluno nao quis declarar cor/raca|MARIA DA GLORIA SOARES|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|931
+41|400019738260|1000052198|MATHEUS ARAUJO DOS SANTOS|86087208500||28011997|Masculino|Aluno nao quis declarar cor/raca|LUCINEIDE ARAUJO DOS SANTOS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|226
+41|400017388549|1000050062|MATHEUS CARVALHO FERREIRA|05564466586||09061992|Masculino|Aluno nao quis declarar cor/raca|VALERIA CARVALHO FERREIRA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|931
+41|400014849072|1000043551|MATHEUS PINHEIRO DA SILVA OLIVEIRA|06254123541||23101994|Masculino|Aluno nao quis declarar cor/raca|VERONILDES PINHEIRO DA SILVA OLIVEIRA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Nao|Nao|Sim|Nao|Nao|Nao|Nao|||||||||2975|2550
+41|400001612689|1000043552|MERCIA REGINA DE MENEZES NASCIMENTO MAIA|02795912503||14071986|Feminino|Aluno nao quis declarar cor/raca|ANA REGINA FARIAS DE MENEZES NASCIMENTO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1589
+41||1000058822|MICHELE GUEDES DOS SANTOS|04717383524||31101988|Feminino|Aluno nao quis declarar cor/raca|MARINALVA GUEDES DOS SANTOS|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|0
+41|400014849073|1000043823|MICHELLE CARVALHO DA MATA|05531435576||15051992|Feminino|Aluno nao quis declarar cor/raca|MACILENE CARVALHO DA MATA|Brasileira|29|2928000|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1050
+41|400011247024|1000037609|MICHELLE LOUISE RODRIGUEZ SALES SOBRINHO|04231241538||04021991|Feminino|Aluno nao quis declarar cor/raca|MEIRE LUCIA RODRIGUES SALES|Brasileira|||BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012010|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|2916
+41|400014849074|1000045389|MILENA DE ALMEIDA DA SILVA|06337454561||16021995|Feminino|Aluno nao quis declarar cor/raca|ANA MARCIA JESUS DE ALMEIDA|Brasileira|29|2901007|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|405
+41|400008348037|1000021630|MIRALVA MACHADO DA SILVA|77842561591||16041981|Feminino|Aluno nao quis declarar cor/raca|VALDETE MACHADO CERQUEIRA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|022008|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|991
+41|400008344669|1000005614|MOAB KIGRAN DE OLIVEIRA ARAUJO|02376726506||26081986|Masculino|Aluno nao quis declarar cor/raca|IZIS CRISTIANI DE OLIVEIRA ARAUJO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2716
+41|400017388564|1000050063|MOEMA OLIVEIRA DE SOUZA|01310556580||04021978|Feminino|Aluno nao quis declarar cor/raca|MARIA CELIA OLIVEIRA DE SOUZA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1006
+41|400008348038|1000021631|MONICA CERQUEIRA DOS SANTOS|04265038565||07041988|Feminino|Aluno nao quis declarar cor/raca|VERA LUCIA DOS SANTOS CERQUEIRA|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Formado||Primeiro semestre|Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2975
+41||1000058827|NACIA SILVA ANDRADE DE CARVALHO|05928703597||17041996|Feminino|Aluno nao quis declarar cor/raca|MARCIA SILVA ANDRADE|Brasileira|29|2913804|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|0
+41|400013115403|1000042308|NAIANE RODRIGUES DA SILVA|06248045500||11071993|Feminino|Aluno nao quis declarar cor/raca|ROSANGELA DE ANDRADE RODRIGUES|Brasileira|29|2928000|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2356
+41|400014849076|1000043554|NATALIA AZEVEDO DA SILVA E SILVA|06261773599||12081994|Feminino|Aluno nao quis declarar cor/raca|MARCIA SIMONE AZEVEDO DA SILVA E SILVA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012012|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|1050
+41|400008345356|1000006799|NELLISY SILVA DE OLIVEIRA|01767463588||13081986|Feminino|Aluno nao quis declarar cor/raca|MARIA DAS GRACAS SILVA DE OLIVEIRA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|022007|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2716
+41|400012358513|1000042561|NEUMA SUELY DE JESUS SILVA|51899868534||20121972|Feminino|Aluno nao quis declarar cor/raca|HELOISA ANGELICA DE JESUS SILVA|Brasileira|29|2928000|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|345
+41|400008348040|1000021633|NEYLA SANTANA TORRES|01337101575||28041985|Feminino|Aluno nao quis declarar cor/raca|MARIA LUIZA SANTANA TORRES|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Matricula trancada|||Nao|022008|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1845
+41|400013115496|1000042506|NILMARIA OLIVEIRA CARNEIRO|05166777565||13111990|Feminino|Aluno nao quis declarar cor/raca|MARIA IRANI DOS SANTOS OLIVEIRA|Brasileira|29|2926301|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Nao|Sim|Nao|Nao|Nao|Sim|Sim|Nao||Nao||Nao||Sim|Sim|2975|2326
+41|400014849077|1000045042|NUBIA DA SILVA SANTOS MACHADO|06637886505||22121993|Feminino|Aluno nao quis declarar cor/raca|ANATALIA DA SILVA SANTOS MACHADO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1740
+41|400017388577|1000047140|PALOMA NASCIMENTO RIBEIRO|06429675556||17081995|Feminino|Aluno nao quis declarar cor/raca|ANA MARGERET OLIVEIRA NASCIMENTO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|991
+41|400016689004|1000054919|PAMELLA REGINA PINTO MIRANDA DO AMARAL|05661020562||02051995|Feminino|Aluno nao quis declarar cor/raca|TELMA REGINA PINTO MIRANDA|Brasileira|29|2929800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|750
+41|400011247027|1000037613|PATRICIA MATOS DE ALMEIDA|04943990584||21061990|Feminino|Aluno nao quis declarar cor/raca|GUIOMAR MATOS DE ALMEIDA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2431
+41||1000057294|PATRICIA MOURA DE JESUS|04030489583||26051995|Feminino|Aluno nao quis declarar cor/raca|MARIA CELESTE SOUZA DE MOURA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|286
+41|400008345394|1000006865|PATRICIA SOUZA OLIVEIRA|93393571591||07091976|Feminino|Aluno nao quis declarar cor/raca|JACY SOUZA OLIVEIRA|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022007|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2475
+41||1000057295|PAULA FERNANDA DOS SANTOS DE FREITAS|05139460556||16051989|Feminino|Aluno nao quis declarar cor/raca|RENILDA CERQUEIRA DOS SANTOS|Brasileira|29|2908507|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|104
+41|400008350495|2000032064|PAULO JOSE DE SOUZA MACEDO|62571877534||06071973|Masculino|Aluno nao quis declarar cor/raca|MARIA ANTONIA JOANA DE SOUZA MACEDO|Brasileira|29|2913903|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|012009|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1966
+41|400015609889|1000050065|PAULO VITOR FARIAS MASCARENHAS OLIVEIRA|05804785567||03061994|Masculino|Aluno nao quis declarar cor/raca|MARCIA FARIAS DOS SANTOS MASCARENHAS OLIVEIRA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|509
+41||1000057296|PAULO VITOR PINHO DA SILVA|02251734503||24051996|Masculino|Aluno nao quis declarar cor/raca|MARIA ANTONIA PINHO BARRETO|Brasileira|35|3550308|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|60
+41|400018051655|1000058825|PEDRO ALBERTO CRUZ DE SOUZA GOMES|06440531514||12051994|Masculino|Aluno nao quis declarar cor/raca|ELIZONETE CRUZ DE SOUZA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Sim|Nao||Nao||Nao||Sim|Sim|2960|0
+41|400019738291|1000052202|PEDRO MODESTO TRABUCO CARDOSO|06278232545||12111994|Masculino|Aluno nao quis declarar cor/raca|SUMAIA SANTOS MODESTO|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012014|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|405
+41|400017388584|1000046383|PEDRO VINICIUS DE CERQUEIRA SANTOS|06574727510||29041994|Masculino|Aluno nao quis declarar cor/raca|NIVIA CRUZ DE CERQUEIRA SANTOS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|1889
+41|400011247028|1000037614|POLYANA JESSICA DO CARMO DE SOUZA|04067990596||09081988|Feminino|Aluno nao quis declarar cor/raca|MARIA DAS DORES PEDREIRA DO CARMO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Nao|Nao|Sim|Nao|Nao|Nao|Nao|||||||||2975|2716
+41|400014849078|1000043556|PRISCILA DA COSTA PINTO DOS SANTOS|05043769505||20091992|Feminino|Aluno nao quis declarar cor/raca|MARIA RITA DA COSTA PINTO DOS SANTOS|Brasileira|29|2928604|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|824
+41|400008348580|1000022420|RAFAEL CARDOSO DOS SANTOS|04544148545||13081990|Masculino|Aluno nao quis declarar cor/raca|MARIA APARECIDA CARDOSO DOS SANTOS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012008|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2460
+41|400012357125|1000040874|RAFAEL DE JESUS SOUZA|02923049519||10051993|Masculino|Aluno nao quis declarar cor/raca|MARINALVA DE JESUS SOUZA|Brasileira|29|2909802|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Nao|Sim|Sim|Nao|Nao|Sim|Nao|||||||||2975|2401
+41|400013115200|1000041938|RAFAEL PEREIRA DA SILVA|85059390500||02011990|Masculino|Aluno nao quis declarar cor/raca|MARIA DOMINGAS SILVA DA CONCEICAO|Brasileira|29|2928000|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2011
+41|400008348582|1000022422|RAFAEL SOUZA DANTAS|03724019530||30121988|Masculino|Aluno nao quis declarar cor/raca|LENILDE SOUZA DANTAS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012008|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2011
+41|400011247567|1000039136|RAIMUNDO CINTRA DOS SANTOS|02996700589||19091987|Masculino|Aluno nao quis declarar cor/raca|MARICEA DA SILVA CINTRA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Formado||Primeiro semestre|Nao|022010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2975
+41|400017388600|1000047145|RAMON SANTOS DE SANTANA|05993559560||19071995|Masculino|Aluno nao quis declarar cor/raca|CLEMILDA SANTOS DE SANTANA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1169
+41|400013114603|1000040875|RANGELE LEITE CAMPOS|05771486566||23051993|Feminino|Aluno nao quis declarar cor/raca|IVANIA LEITE FEGUEREDO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012011|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|2654
+41|400017388603|1000046384|RAUL BRANDAO DE SA|03194652508||08081991|Masculino|Aluno nao quis declarar cor/raca|ANA ROSA BRANDAO DE SA|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|464
+41||1000054921|REBECA LAISE SANTOS LIMA|04716110508||28091989|Feminino|Aluno nao quis declarar cor/raca|MABEL SANTOS LIMA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Sim|Sim|Sim|Nao||Nao||Nao||2975|286
+41||1000057510|REBECA MANAIA DE SANTANA|06973546528||25011996|Feminino|Aluno nao quis declarar cor/raca|MILENE PINHO MANAIA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|286
+41|400018782242|1000052205|REBECA SILVA DE OLIVEIRA|06592551542||30091994|Feminino|Aluno nao quis declarar cor/raca|EVANILDES SILVA DE OLIVEIRA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|012014|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|104
+41|400011790747|1000043557|REGIANE BRANDAO ALMEIDA|04181437574||18121988|Feminino|Aluno nao quis declarar cor/raca|ANA RAIMUNDA BRANDAO ALMEIDA|Brasileira|29|2928000|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Sim|Sim|Sim|Nao||Nao||Nao||2975|2130
+41|400019738312|1000054922|RICARDO DA CRUZ PINHEIRO|02715794550||13051992|Masculino|Aluno nao quis declarar cor/raca|IRACI CERQUEIRA DA CRUZ|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|104
+41|400014849083|1000045680|ROBSON FERREIRA DE SOUSA|06301557557||25091993|Masculino|Aluno nao quis declarar cor/raca|ROSANGELA MARIA FERREIRA DE SOUSA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|479
+41|400014849084|1000045047|RODRIGO ZANNABREA DOS SANTOS SILVA|05786445500||17011994|Masculino|Aluno nao quis declarar cor/raca|ANANILZA MARIA SILVA|Brasileira|29|2928000|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|824
+41|400017388627|1000050067|ROGERIO GUTEMBERG CONCEICAO|91124891587||02081975|Masculino|Aluno nao quis declarar cor/raca|EDEILDA FERREIRA CONCEICAO|Brasileira|33|3304557|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|119
+41|400008347777|1000039138|ROMILDA ALMEIDA DE SENA|91709660520||07041975|Feminino|Aluno nao quis declarar cor/raca|MARGARIDA ALMEIDA DE OLIVEIRA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Formado||Primeiro semestre|Nao|022010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2975
+41|400019738318|1000055351|RONALDO DA SILVA MONTEIRO|70515077534||28101976|Masculino|Aluno nao quis declarar cor/raca|JIDALVA PINTO DA SILVA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|286
+41|400017388630|1000050068|RONNY COSTA PEREIRA|06784303571||01121995|Masculino|Aluno nao quis declarar cor/raca|LUSILENE APARECIDA PEREIRA LEITE|Brasileira|35|3552502|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1229
+41|400014849085|1000043558|ROSEANE CARNEIRO DOS SANTOS|01120138566||21081984|Feminino|Aluno nao quis declarar cor/raca|EDILZA NASCIMENTO DOS SANTOS|Brasileira|29|2928000|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1470
+41|400008345377|1000006831|ROSELI ARAUJO LIMA|01400384508||11061986|Feminino|Aluno nao quis declarar cor/raca|ELIZABETH ARAUJO LIMA|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|022007|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1785
+41|400008345378|1000006832|RUAN MULLER CORREIA DA ROCHA SOUZA|03391487569||07081987|Masculino|Aluno nao quis declarar cor/raca|EDNALVA CORREIA DA ROCHA SOUZA|Brasileira|29|2908507|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|2294
+41||1000058828|RUTH MOREIRA NASCIMENTO|04272254502||13041997|Feminino|Aluno nao quis declarar cor/raca|RITA DE CASSIA DOS SANTOS MOREIRA|Brasileira|29|2914505|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|59
+41|400008350513|2000032082|SABRINA DE BRITO VAZ|04577209560||15051989|Feminino|Aluno nao quis declarar cor/raca|DIVA DE BRITO VAZ|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|012009|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1949
+41|400013115202|1000041941|SALVADOR MANOEL CARNEIRO JUNIOR|05789068561||28071992|Masculino|Aluno nao quis declarar cor/raca|MARIA DO CARMO CARNEIRO|Brasileira|29|2926301|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Sim|Sim|Sim|Nao||Nao||Nao||2975|2011
+41|400011247030|1000037616|SARA REBECA SANTOS LIMA SOARES|04949619535||26121991|Feminino|Aluno nao quis declarar cor/raca|ZILMAR OLIVEIRA SANTOS LIMA|Brasileira|29|2914000|BRA|Nao|||||||||||||
+42||15409||Vespertino|Formado||Primeiro semestre|Nao|012010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2975
+41|400011247569|1000039140|SELMA MARIA ALVES CERQUEIRA|01280703580||21071983|Feminino|Aluno nao quis declarar cor/raca|JOSEFA ALVES DE CERQUEIRA|Brasileira|||BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2716
+41|400008349964|2000031263|SERGIA ALEXANDRE DA SILVA|01593393598||16041982|Feminino|Aluno nao quis declarar cor/raca|MARIANA GONCALVES DA SILVA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022009|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2654
+41||1000057713|SERGIO BOMFIM DA SILVA|61204560587||20031975|Masculino|Aluno nao quis declarar cor/raca|EVILASIA BOMFIM DA SILVA|Brasileira|29|2900702|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|60
+41|400014849086|1000043559|SILIO DE OLIVEIRA BORGES JUNIOR|03058583516||08101989|Masculino|Aluno nao quis declarar cor/raca|MARIA HELENA DE SANTANA|Brasileira|29|2928000|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Nao|Nao|Sim|Nao|Nao|Nao|Nao|||||||||2975|2249
+41|400011247029|1000037615|SILMARA PEREIRA BISPO|05737340546||27091991|Feminino|Aluno nao quis declarar cor/raca|MARIA BRASILINA PEREIRA BISPO|Brasileira|29|2903276|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Nao|Sim|Nao|Nao|Nao|Sim|Nao|||||||||2975|2654
+41|400017388647|1000050926|SILVIA CARLA DE OLIVEIRA|07336043585||25021994|Feminino|Aluno nao quis declarar cor/raca|ALEXANDRINA ROSARIA DE OLIVEIRA|Brasileira|29|2928802|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|991
+41|400014339365|1000055664|SIMONE DIAS DA SILVA|02053565594||07101985|Feminino|Aluno nao quis declarar cor/raca|LUCIENE BATISTA MATOS DIAS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|286
+41|400008350515|2000032084|SIMONE MATOS DE SOUZA|03179247533||11071988|Feminino|Aluno nao quis declarar cor/raca|ANTONIA MATOS DE SOUZA|Brasileira|29|2933000|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012009|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Nao|Sim|Nao|Nao|Nao|Sim|Sim|Nao||Nao||Nao||Sim|Sim|2975|2594
+41|400014849087|1000045048|SONIVIA LIMA QUEIROZ|02446385516||07091987|Feminino|Aluno nao quis declarar cor/raca|MARIA SILVANIR LIMA DA MOTA|Brasileira|29|2933000|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1589
+41|400008343727|1000041816|SOSTENES BRILHANTE RODRIGUES SILVA|07288682455||09011988|Masculino|Aluno nao quis declarar cor/raca|IZONARIA MARIA BRILHANTE SOLANO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2960|2655
+41||1000059373|STEPHANY SOBRAL RAMOS|07090168590||17091995|Feminino|Aluno nao quis declarar cor/raca|GILDA SOBRAL RAMOS|Brasileira|29|2929305|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|0
+41|400017388652|1000047246|SUANE DE ALMEIDA SANTOS PIMENTA|06629746546||19121993|Feminino|Aluno nao quis declarar cor/raca|EDILENE DE ALMEIDA SANTOS PIMENTA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|012013|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|631
+41|400011247571|1000039142|TABITA SANTANA DE OLIVEIRA QUEIROZ|05501820552||31121990|Feminino|Aluno nao quis declarar cor/raca|HELENA SANTANA DE OLIVEIRA QUEIROZ|Brasileira|29|2902609|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022010|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|794
+41|400008348025|1000021614|TACILA ANE MAGALHAES MACHADO|01996544500||29041987|Feminino|Aluno nao quis declarar cor/raca|JOSENILZA FERREIRA MAGALHAES|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Formado||Primeiro semestre|Nao|022008|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2975
+41|400012809157|1000046386|TAGORE CAVALCANTE DOURADO|05882164532||21071991|Masculino|Aluno nao quis declarar cor/raca|MARIA APARECIDA CAVALCANTE PAIXAO DOURADO|Brasileira|29|2914604|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Sim|Sim|Sim|Nao||Nao||Nao||2975|509
+41||1000057297|TAHILE DE JESUS DA SILVA|07089816583||12071996|Feminino|Aluno nao quis declarar cor/raca|EDNA EVANGELISTA DE JESUS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|286
+41|400019738332|1000055713|TAISE SILVA DE JESUS|07106747599||24011995|Feminino|Aluno nao quis declarar cor/raca|JUREMA MATOS SILVA|Brasileira|29|2931103|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|390
+41|400008349965|2000031264|TAMIRES DA SILVA ALVES|03099338540||07051989|Feminino|Aluno nao quis declarar cor/raca|MARIA NILZELY DA SILVA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022009|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2916
+41|400013115441|1000042391|TARCISO JOSE MARTINS DANTAS DA CRUZ|06263978554||29011994|Masculino|Aluno nao quis declarar cor/raca|MARIA HELENA AMARAL MARTINS DANTAS DA CRUZ|Brasileira|29|2909802|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022011|Publico|Nao|Nao|Nao|Nao||Nao|Sim|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1621
+41||1000059374|TATIANE DA CONCEICAO RIBEIRO|91286603587||29071976|Feminino|Aluno nao quis declarar cor/raca|ZENITA DA CONCEICAO RIBEIRO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2960|0
+41|400012810266|1000040876|TAYLAN SANTANA SANTOS|05583387556||20081992|Masculino|Aluno nao quis declarar cor/raca|MARIZE DA SILVA SANTANA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Formado||Primeiro semestre|Nao|012011|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|2975
+41|400019738338|1000054923|THAILLA DA SILVA SENA|06636466502||22021996|Feminino|Aluno nao quis declarar cor/raca|FABIANA DA SILVA SENA|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|631
+41|400013114604|1000040877|THAMIRES MARQUES SANTOS|05618392550||16121991|Feminino|Aluno nao quis declarar cor/raca|CARMELITA MARQUES SANTOS|Brasileira|29|2928802|BRA|Nao|||||||||||||
+42||15409||Vespertino|Formado||Primeiro semestre|Nao|012011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2975
+41|400008349966|2000031266|THAMIRES SCHMIDT ROZEMBERG|05270667533||01041991|Feminino|Aluno nao quis declarar cor/raca|VERENA SCHMIDT ROZEMBERG|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Formado||Primeiro semestre|Nao|022009|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|2975
+41|400017388685|1000047141|THAYANE ALVES SANTOS|05696019595||27021995|Feminino|Aluno nao quis declarar cor/raca|TATHIANE DA SILVA ALVES|Brasileira|29|2902104|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|524
+41|400013115203|1000041943|THAYLANE AZEVEDO DOS SANTOS NASCIMENTO|06024635567||02101991|Feminino|Aluno nao quis declarar cor/raca|ADENILZA AZEVEDO DOS SANTOS|Brasileira|29|2928703|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2145
+41|400011247573|1000039144|THIAGO BORGES DE SANTANA|03039596578||12081986|Masculino|Aluno nao quis declarar cor/raca|MARIA DE LOURDES BORGES DOS SANTOS|Brasileira|29|2907806|BRA|Nao|||||||||||||
+42||15409||Vespertino|Formado||Primeiro semestre|Nao|022010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2975
+41||1000058834|THIAGO OLIVEIRA BRANDAO|06580560509||02011992|Masculino|Aluno nao quis declarar cor/raca|ROZALVA OLIVEIRA BRANDAO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|0
+41|400017388692|1000050928|TIAGO ALVES DA SILVA|04852712573||17031991|Masculino|Aluno nao quis declarar cor/raca|MARIA JOSE ALVES DA SILVA|Brasileira|29|2906006|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1065
+41|400013114605|1000040878|TIAGO CLEITON SANTOS BARBOSA|03836848546||24071988|Masculino|Aluno nao quis declarar cor/raca|NEIDE SANTOS BARBOSA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|524
+41||1000057298|TIAGO GAMA DE OLIVEIRA|07775396598||10091997|Masculino|Aluno nao quis declarar cor/raca|LUCIANA RENATA GAMA OLIVEIRA|Brasileira|35|3550308|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|286
+41|400014849089|1000043561|VANESSA CUNHA DA SILVA OLIVEIRA|04659025535||21091991|Feminino|Aluno nao quis declarar cor/raca|GENIVAN ARAUJO DA CUNHA|Brasileira|29|2928000|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1544
+41|400015749364|1000046388|VANESSA KAROLINE DE LIMA SOUZA|03546831527||07011994|Feminino|Aluno nao quis declarar cor/raca|VALDYRIA DE LIMA SOUZA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|750
+41|400011247032|1000037619|VENANCIO DA SILVA E SILVA|02888694514||08031985|Masculino|Aluno nao quis declarar cor/raca|MARIA DO CARMO SILVA E SILVA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Formado||Primeiro semestre|Nao|012010|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|2975
+41|400017388705|1000046389|VERONICA CONCEICAO JUSTO|92428606549||28091975|Feminino|Aluno nao quis declarar cor/raca|MARIA JOSE CONCEICAO JUSTO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012013|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1110
+41|400013115204|1000041944|VICENCIA CAVALCANTI VITA|06156082565||29031993|Feminino|Aluno nao quis declarar cor/raca|MARGARIDA MARIA CAVALCANTI ARGOLO|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022011|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|1351
+41||1000057299|VICTOR BERTINO SILVA|03217174577||07021997|Masculino|Aluno nao quis declarar cor/raca|JUDITE SILVEIRA BERTINO|Brasileira|29|2928703|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|286
+41||1000058833|VICTORIA GAMA DE ALMEIDA SILVA|07851560543||08091997|Feminino|Aluno nao quis declarar cor/raca|JUCIMEIRE GAMA DE ALMEIDA SILVA|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|0
+41|400019738354|1000054926|VINICIUS NOGUEIRA DE SANTANA|07872955580||04021997|Masculino|Aluno nao quis declarar cor/raca|JUSIENE NOGUEIRA DE SANTANA|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|286
+41|400008350519|2000032088|VINICIUS SANTOS OLIVEIRA SILVA|04649213509||22081990|Masculino|Aluno nao quis declarar cor/raca|CLEIDIMAR PEREIRA SANTOS|Brasileira|29|2927408|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012009|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|2716
+41|400011247574|1000039145|VITORIA ANDRADE DE MATOS|02884502564||08081992|Feminino|Aluno nao quis declarar cor/raca|MARIA NEUZA DE SOUSA ANDRADE|Brasileira|29|2931905|BRA|Nao|||||||||||||
+42||15409||Vespertino|Formado||Primeiro semestre|Nao|022010|Privado|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Nao||||||||||||||||||Nao|||||||Nao|||||||||2975|2975
+41||1000057300|VITORIA SANTANA CAMPOS|06092732564||20031997|Feminino|Aluno nao quis declarar cor/raca|MARIA DA CONCEICAO SANTANA CAMPOS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2975|286
+41|400013114606|1000040880|WAGNER DOS SANTOS DIAS|03172311546||25091992|Masculino|Aluno nao quis declarar cor/raca|DORALICE FERREIRA DOS SANTOS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012011|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1859
+41||1000057301|WAGNER WILLIAM SANTOS DO NASCIMENTO|06689619532||28091996|Masculino|Aluno nao quis declarar cor/raca|MARIZETE DE SOUZA SANTOS|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|60
+41|400014849090|1000045750|WANDERLEI CARVALHO MASCARENHAS JUNIOR|05416837560||07011994|Masculino|Aluno nao quis declarar cor/raca|ROSILE ALMEIDA SANTANA MASCARENHAS|Brasileira|29|2926301|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|931
+41||1000058832|WASHINGTON LIMA ARAUJO FILHO|06648124571||28021996|Masculino|Aluno nao quis declarar cor/raca|JANETE DE OLIVEIRA SANTOS|Brasileira|29|2902609|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022015|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Sim|Nao|Nao|Nao|Nao|Nao|Nao|||||||||2960|0
+41|400014849092|1000045053|WILLIAN NATAN BRITO DA SILVA|02301241513||25121993|Masculino|Aluno nao quis declarar cor/raca|MARIA JOSE SOUSA BRITO|Brasileira|29|2928000|BRA|Nao|||||||||||||
+42||15409||Vespertino|Desvinculado do curso|||Nao|022012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|631
+41|400014849093|1000043562|WILLIVAN DO CARMO SANTOS|05872675500||06101993|Masculino|Aluno nao quis declarar cor/raca|DAGMAR BISPO DO CARMO|Brasileira|29|2928000|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|012012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Sim|Internacional||Intercambio|PRT|Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Sim|Nao|Nao|Sim|Nao|Nao|Nao|Nao|||||||||2975|1666
+41|400018252191|1000054928|WILTON ALVES FERREIRA JUNIOR|06091932527||19061995|Masculino|Aluno nao quis declarar cor/raca|GILNETE ALVES MASCARENHAS|Brasileira|29|2928307|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022014|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|464
+41|400014849094|1000045054|WLLYANA BRITO OLIVEIRA|06239670570||16091993|Feminino|Aluno nao quis declarar cor/raca|CLAUDIA CARNEIRO BRITO|Brasileira|29|2910800|BRA|Nao|||||||||||||
+42||15409||Vespertino|Cursando|||Nao|022012|Publico|Sim|Nao|Nao|Nao||Nao|Nao|Nao|Nao|Nao|||||Sim|Nao|Nao|Sim|Nao|Nao|||||||||||||Nao|||||||Nao|||||||||2975|1859
